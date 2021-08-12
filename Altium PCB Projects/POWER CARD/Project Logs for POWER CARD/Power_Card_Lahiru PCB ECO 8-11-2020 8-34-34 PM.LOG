@@ -1,0 +1,77 @@
+Removed Member From Class: ClassName=Power_Card Member=D2
+Removed Member From Class: ClassName=Power_Card Member=D3
+Removed Member From Class: ClassName=Power_Card Member=D4
+Added Component: Designator=R46(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Added Component: Designator=R47(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Added Component: Designator=R48(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Added Component: Designator=R49(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Added Component: Designator=R50(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PC13 Pin=D2-2
+Added Pin To Net: NetName=PC14 Pin=D3-2
+Added Pin To Net: NetName=PC15 Pin=D4-2
+Added Pin To Net: NetName=A3.3V Pin=R46-2
+Added Pin To Net: NetName=A3.3V Pin=R47-2
+Added Pin To Net: NetName=A3.3V Pin=R48-2
+Added Pin To Net: NetName=A3.3V Pin=R49-2
+Added Pin To Net: NetName=A3.3V Pin=R50-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R46-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R47-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R48-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=R49-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=R50-1
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=MCU Member=Component D2 Green LED 0603
+Added Member To Class: ClassName=MCU Member=Component D3 Green LED 0603
+Added Member To Class: ClassName=MCU Member=Component D4 Green LED 0603
+Added Member To Class: ClassName=MCU Member=Component R46 4.7k
+Added Member To Class: ClassName=MCU Member=Component R47 4.7k
+Added Member To Class: ClassName=MCU Member=Component R48 4.7k
+Added Member To Class: ClassName=MCU Member=Component R49 4.7k
+Added Member To Class: ClassName=MCU Member=Component R50 4.7k

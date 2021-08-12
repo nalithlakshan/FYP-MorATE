@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=22nF
+Change component parameters: Designator = "C7"; Footprint = "CAPC1608X09N"; UniqueID = "\VSEXMAQN\NGRIKXXA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"

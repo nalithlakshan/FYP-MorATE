@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=D2-1
+Removed Pin From Net: NetName=PC13 Pin=D2-2
+Removed Pin From Net: NetName=NetD3_1 Pin=D3-1
+Removed Pin From Net: NetName=PC14 Pin=D3-2
+Removed Pin From Net: NetName=NetD4_1 Pin=D4-1
+Removed Pin From Net: NetName=PC15 Pin=D4-2
+Change Component Footprint: Designator=D2 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1 - duplicate
+Change Component Footprint: Designator=D3 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1 - duplicate
+Change Component Footprint: Designator=D4 Old Footprint=PCBComponent_1 New Footprint=PCBComponent_1 - duplicate
+Added Component: Designator=D2(PCBComponent_1 - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Component: Designator=D3(PCBComponent_1 - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Component: Designator=D4(PCBComponent_1 - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Component: Designator=D5(PCBComponent_1 - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Component: Designator=D6(PCBComponent_1 - duplicate)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=PC13 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=PC14 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=PC15 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=PB8 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=PB9 Pin=D6-2
+Added Member To Class: ClassName=MCU Member=Component D5 Green LED 0603
+Added Member To Class: ClassName=MCU Member=Component D6 Green LED 0603

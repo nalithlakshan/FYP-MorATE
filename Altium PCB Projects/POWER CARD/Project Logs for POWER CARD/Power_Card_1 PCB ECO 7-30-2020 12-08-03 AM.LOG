@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=MCU Member=SP?
+Removed Member From Class: ClassName=Power_Card Member=U?
+Change Component Comment : Designator=D4 Old Comment=Orange LED 0603 New Comment=Green LED 0603
+Change Component Comment : Designator=D3 Old Comment=Red LED 0603 New Comment=Green LED 0603
+Change component parameters: Designator = "D4"; Footprint = "PCBComponent_1"; UniqueID = "\YWMQYAXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "PCBComponent_1"; UniqueID = "\JCQGBULD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"

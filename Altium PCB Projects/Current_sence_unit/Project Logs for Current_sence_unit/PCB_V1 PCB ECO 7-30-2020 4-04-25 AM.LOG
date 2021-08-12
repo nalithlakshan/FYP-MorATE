@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+12 Pin=K8-1
+Removed Pin From Net: NetName=Load_select Pin=K8-4
+Added Pin To Net: NetName=Load_select Pin=K8-1
+Added Pin To Net: NetName=+12 Pin=K8-4

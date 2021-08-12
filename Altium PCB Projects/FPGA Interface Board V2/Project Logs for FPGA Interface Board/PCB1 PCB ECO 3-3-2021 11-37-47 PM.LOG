@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=DUT_VH Pin=JP1-2
+Removed Pin From Net: NetName=CLK1_IN1 Pin=RF1-5
+Removed Pin From Net: NetName=PLL4_CLKOUTp Pin=RF2-5
+Removed Member From Class: ClassName=Logic Voltage Source Member=JP1
+Added Component: Designator=RF3(ANT-TH_KH-SMA-K513-G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "KH-SMA-K513-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shenzhen Kinghelm Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "KH-SMA-K513-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C411575"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK1_IN0 Pin=RF1-5
+Added Pin To Net: NetName=CLK0_IN1 Pin=RF2-5
+Added Pin To Net: NetName=GND Pin=RF3-1
+Added Pin To Net: NetName=GND Pin=RF3-2
+Added Pin To Net: NetName=GND Pin=RF3-3
+Added Pin To Net: NetName=GND Pin=RF3-4
+Added Pin To Net: NetName=CLK1_IN0 Pin=RF3-5
+Added Member To Class: ClassName=FPGA Member=Component RF3 KH-SMA-K513-G
+Added Room: Name=Level Translateor switches

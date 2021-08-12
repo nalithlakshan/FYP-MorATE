@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=IO-3-4-off Pin=R49-1
+Removed Pin From Net: NetName=IO-3-4-on Pin=R50-2
+Removed Pin From Net: NetName=IO-3-4-off Pin=R53-1
+Removed Pin From Net: NetName=IO-3-4-on Pin=R54-2
+Removed Pin From Net: NetName=IO-3-4-off Pin=R57-1
+Removed Pin From Net: NetName=IO-3-4-on Pin=R58-2
+Removed Pin From Net: NetName=IO-3-4-out Pin=T5-2
+Removed Pin From Net: NetName=IO-3-4-out Pin=T6-2
+Removed Pin From Net: NetName=IO-3-4-out Pin=T7-2
+Removed Pin From Net: NetName=IO-3-4-out Pin=T8-2
+Removed Pin From Net: NetName=IO-3-4-out Pin=T9-2
+Removed Pin From Net: NetName=IO-3-4-out Pin=T10-2
+Added Component: Designator=Q6(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3904LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C81464"; VariantName = "[No Variations]"
+Added Component: Designator=R60(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R61(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R62(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R63(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=T11(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T12(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=+3.3V Pin=R60-1
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=+3.3V Pin=T11-3
+Added Pin To Net: NetName=GND Pin=T12-3
+Added Pin To Net: NetName=IO-5-6-off Pin=R49-1
+Added Net: Name=IO-5-6-off
+Added Pin To Net: NetName=IO-5-6-on Pin=R50-2
+Added Net: Name=IO-5-6-on
+Added Pin To Net: NetName=IO-5-6-out Pin=T5-2
+Added Pin To Net: NetName=IO-5-6-out Pin=T6-2
+Added Net: Name=IO-5-6-out
+Added Pin To Net: NetName=IO-7-8-off Pin=R53-1
+Added Net: Name=IO-7-8-off
+Added Pin To Net: NetName=IO-7-8-on Pin=R54-2
+Added Net: Name=IO-7-8-on
+Added Pin To Net: NetName=IO-7-8-out Pin=T7-2
+Added Pin To Net: NetName=IO-7-8-out Pin=T8-2
+Added Net: Name=IO-7-8-out
+Added Pin To Net: NetName=IO-9-10-off Pin=R57-1
+Added Net: Name=IO-9-10-off
+Added Pin To Net: NetName=IO-9-10-on Pin=R58-2
+Added Net: Name=IO-9-10-on
+Added Pin To Net: NetName=IO-9-10-out Pin=T9-2
+Added Pin To Net: NetName=IO-9-10-out Pin=T10-2
+Added Net: Name=IO-9-10-out
+Added Pin To Net: NetName=IO-11-12-off Pin=R61-1
+Added Net: Name=IO-11-12-off
+Added Pin To Net: NetName=IO-11-12-on Pin=R62-2
+Added Net: Name=IO-11-12-on
+Added Pin To Net: NetName=IO-11-12-out Pin=T11-2
+Added Pin To Net: NetName=IO-11-12-out Pin=T12-2
+Added Net: Name=IO-11-12-out
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R62-1
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R60-2
+Added Pin To Net: NetName=NetQ6_2 Pin=T11-1
+Added Net: Name=NetQ6_2
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR61_2 Pin=R63-2
+Added Pin To Net: NetName=NetR61_2 Pin=T12-1
+Added Net: Name=NetR61_2
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q6 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component R60 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R61 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R62 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R63 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component T11 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T12 SI2302

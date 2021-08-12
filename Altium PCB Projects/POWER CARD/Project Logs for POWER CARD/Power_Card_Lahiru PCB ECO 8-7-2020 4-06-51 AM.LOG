@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=FB1 Pin=J14-1
+Removed Pin From Net: NetName=FB3 Pin=J14-2
+Removed Pin From Net: NetName=FB2 Pin=J14-3
+Removed Pin From Net: NetName=FB1 Pin=J15-1
+Removed Pin From Net: NetName=FB3 Pin=J15-2
+Removed Pin From Net: NetName=FB2 Pin=J15-3
+Added Pin To Net: NetName=FB2 Pin=J14-1
+Added Pin To Net: NetName=FB1 Pin=J14-2
+Added Pin To Net: NetName=FB3 Pin=J14-3
+Added Pin To Net: NetName=FB2 Pin=J15-1
+Added Pin To Net: NetName=FB1 Pin=J15-2
+Added Pin To Net: NetName=FB3 Pin=J15-3
+Added Room: Name=L1

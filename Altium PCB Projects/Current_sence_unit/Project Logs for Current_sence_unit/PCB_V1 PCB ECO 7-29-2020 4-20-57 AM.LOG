@@ -1,0 +1,51 @@
+Change Component Comment : Designator=J1 Old Comment=Molex 90120-0762 New Comment=header 2x1
+Change Component Description : Designator=J1 Old Description=2.54mm (.100") Pitch C-Grid III? Header, Single Row, Vertical, 1 Circuits, Gold (Au) Plating New Description=2.54mm (.100") Pitch C-Grid III? Header, Single Row, Vertical, 1 Circuits, Gold (Au) Plating
+Added Component: Designator=J?(PCB-55llon6gpk2h6a06nz0l-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "0.02 ?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3.0 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free Status"; Value = "Not Reviewed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5000000000.0 ?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Not Listed by Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "90120-0762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole, Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "8fae46aeaafe5069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/90120-0762-molex-655414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "0.00254 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Height"; Value = "0.0025 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Length"; Value = "0.00508 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Width"; Value = "0.00254 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "350.0 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "350.0 V"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetK1_3 New Net Name=Sence_1
+Change Net Name : Old Net Name=NetK2_3 New Net Name=A
+Change Net Name : Old Net Name=NetK4_3 New Net Name=mA
+Change Net Name : Old Net Name=NetK6_3 New Net Name=uA
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U4-6
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U4-7
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=U2-6
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U2-7
+Added Net: Name=NetJ?_2
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J? header 2x1
+Added Room: Name=Current_sence-load-volt_meter

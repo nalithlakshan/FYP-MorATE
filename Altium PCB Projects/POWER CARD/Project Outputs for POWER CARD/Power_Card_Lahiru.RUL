@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Thilina\Google Drive\Altium Projects\POWER CARD_B2 - Lahiru's working copy\Power_Card_Lahiru.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00

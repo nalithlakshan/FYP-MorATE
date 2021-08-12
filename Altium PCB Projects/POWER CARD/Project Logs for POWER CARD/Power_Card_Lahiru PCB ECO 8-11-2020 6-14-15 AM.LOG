@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SCL1 Pin=R40-1
+Removed Pin From Net: NetName=SDA1 Pin=R42-1
+Added Pin To Net: NetName=PB11 Pin=R40-1
+Added Pin To Net: NetName=PB12 Pin=R42-1

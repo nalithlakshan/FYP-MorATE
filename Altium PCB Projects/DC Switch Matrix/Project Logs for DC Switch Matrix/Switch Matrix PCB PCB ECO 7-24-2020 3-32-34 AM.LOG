@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DIN Pin=J6-1
+Removed Pin From Net: NetName=RST Pin=J6-2
+Removed Pin From Net: NetName=SHCP Pin=J6-3
+Removed Pin From Net: NetName=STCP Pin=J6-4
+Removed Pin From Net: NetName=OE Pin=J6-5
+Removed Pin From Net: NetName=DOUT Pin=J6-6
+Added Pin To Net: NetName=RST Pin=J6-1
+Added Pin To Net: NetName=SHCP Pin=J6-2
+Added Pin To Net: NetName=STCP Pin=J6-3
+Added Pin To Net: NetName=OE Pin=J6-4
+Added Pin To Net: NetName=DOUT Pin=J6-5
+Added Pin To Net: NetName=DIN Pin=J6-6

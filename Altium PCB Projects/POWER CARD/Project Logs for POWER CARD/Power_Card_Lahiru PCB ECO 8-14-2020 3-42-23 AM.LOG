@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=C18 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=R14 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Comment : Designator=R14 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=22uF
+Change component parameters: Designator = "R14"; Footprint = "gen0603-2"; UniqueID = "\SGHMXQAL\JEFWHUAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "CAPC1608X09N"; UniqueID = "\SGHMXQAL\GNAYPPQA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CL10A226MP8NUNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C86295"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "10V"; VariantName = "[No Variations]"

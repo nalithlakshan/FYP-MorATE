@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=R37_L1 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R37_L2 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R37_L3 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change component parameters: Designator = "R37_L1"; Footprint = "gen0603-2"; UniqueID = "\DWSJHVBB\WECHQBSN\VFNQINNQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C98220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37_L2"; Footprint = "gen0603-2"; UniqueID = "\WXMJPWFK\TLRTELEY\VFNQINNQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C98220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37_L3"; Footprint = "gen0603-2"; UniqueID = "\ICRWGBVK\JCKLKKSK\VFNQINNQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C98220"; VariantName = "[No Variations]"

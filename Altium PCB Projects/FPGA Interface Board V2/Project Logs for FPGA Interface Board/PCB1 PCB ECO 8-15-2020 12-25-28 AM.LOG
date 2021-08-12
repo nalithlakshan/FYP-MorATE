@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=Shift Registers Member=Component C42 22uF
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R50 51K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R51 24k
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R52 105K
+Added Member To Class: ClassName=Shift Registers Member=Component R68 1K
+Added Member To Class: ClassName=Shift Registers Member=Component U23 ULN2803A_C107219

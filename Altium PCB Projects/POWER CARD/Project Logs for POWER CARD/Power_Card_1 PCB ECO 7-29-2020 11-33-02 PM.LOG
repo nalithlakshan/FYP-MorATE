@@ -1,0 +1,8 @@
+Added Component: Designator=SP?(PCB-gql0f0yk39bxcwo1gexj-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CustomComponentID"; Value = "8r7wb9d4hsrx0vdasxxy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Homepage URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component SP? Jiangsu Huaneng Elec HNB09A03

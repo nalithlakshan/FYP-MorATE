@@ -1,0 +1,1568 @@
+Change Component Footprint: Designator=C1_P1 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P2 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P3 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P4 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P5 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P6 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P7 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C1_P8 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=R1_P1 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P2 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P3 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P4 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P5 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P6 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P7 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R1_P8 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P1 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P2 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P3 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P4 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P5 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P6 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P7 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R2_P8 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P1 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P2 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P3 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P4 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P5 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P6 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P7 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R3_P8 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=J8 Old Footprint=JST-S3B-XH-A(LF)(SN)_V New Footprint=JST-S3B-XH-A(LF)(SN)_V
+Change Component Footprint: Designator=J7 Old Footprint=JST S6B-XH-A New Footprint=JST S6B-XH-A
+Change Component Footprint: Designator=DD1_P1 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P2 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P3 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P4 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P5 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P6 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P7 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD1_P8 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD2 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=DD3 Old Footprint=PCB-72k1vk0k27b6qyyenbg0-1 New Footprint=PCB-72k1vk0k27b6qyyenbg0-1
+Change Component Footprint: Designator=K1_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K1_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K2_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K3_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K4_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K5_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K6_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P1 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P2 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P3 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P4 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P5 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P6 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P7 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=K7_P8 Old Footprint=PCB-ei6nokn2irsc2a7yt94x-1 New Footprint=PCB-ei6nokn2irsc2a7yt94x-1
+Change Component Footprint: Designator=J9 Old Footprint=PCB-fv0n1qe7e7tw0owzte2c-1 New Footprint=PCB-fv0n1qe7e7tw0owzte2c-1
+Change Component Footprint: Designator=J10 Old Footprint=PCB-fv0n1qe7e7tw0owzte2c-1 New Footprint=PCB-fv0n1qe7e7tw0owzte2c-1
+Change Component Footprint: Designator=U1_P1 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P2 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P3 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P4 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P5 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P6 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P7 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=U1_P8 Old Footprint=PCB-gcdku7p92m9mz9ih2yin-1 New Footprint=PCB-gcdku7p92m9mz9ih2yin-1
+Change Component Footprint: Designator=Q2_P1 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P2 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P3 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P4 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P5 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P6 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P7 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=Q2_P8 Old Footprint=PCB-iok221h7g3hg093tnixb-1 New Footprint=PCB-iok221h7g3hg093tnixb-1
+Change Component Footprint: Designator=J1 Old Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1 New Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1
+Change Component Footprint: Designator=J2 Old Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1 New Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1
+Change Component Footprint: Designator=J3 Old Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1 New Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1
+Change Component Footprint: Designator=J4 Old Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1 New Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1
+Change Component Footprint: Designator=J5 Old Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1 New Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1
+Change Component Footprint: Designator=J6 Old Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1 New Footprint=PCB-kiok1jlp9o9fcwf1wwvf-1
+Change Component Footprint: Designator=U2 Old Footprint=PCB-xp4qbii5l2bbflfsgoli-1 New Footprint=PCB-xp4qbii5l2bbflfsgoli-1
+Change Component Footprint: Designator=U3 Old Footprint=PCB-xp4qbii5l2bbflfsgoli-1 New Footprint=PCB-xp4qbii5l2bbflfsgoli-1
+Change Component Footprint: Designator=U4 Old Footprint=PCB-xp4qbii5l2bbflfsgoli-1 New Footprint=PCB-xp4qbii5l2bbflfsgoli-1
+Change Component Footprint: Designator=Q1_P1 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P2 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P3 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P4 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P5 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P6 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P7 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Footprint: Designator=Q1_P8 Old Footprint=SOT-23 New Footprint=SOT-23
+Change Component Library : Designator=C1_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C1_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=C3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD1_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=DD3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J9 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=J10 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K1_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K2_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K3_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K4_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K5_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K6_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=K7_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q1_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=Q2_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R1_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R2_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=R3_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P1 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P5 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P6 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P7 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U1_P8 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U2 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U3 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change Component Library : Designator=U4 Old Library=CommunityVault New Library=DC Switch Matrix.IntLib
+Change component parameters: Designator = "K1_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K1_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\YDLKJOQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\JLRJCPSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\UIJYCKUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\SPYVFJJH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K5_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\UTDTPNHM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K6_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\GQJDAJXR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "HF46F/12-HS1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HF(Xiamen Hongfa Electroacoustic)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C3636"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P1"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\BVIWGXDB\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P2"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\USSHXABJ\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P3"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\FCQOCDQA\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P4"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\YBOJKVWB\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P5"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\SFFMDBRQ\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P6"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\AOLEGRCD\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P7"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\GPPYIBAU\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "K7_P8"; Footprint = "PCB-ei6nokn2irsc2a7yt94x-1"; UniqueID = "\WQDONKCW\WUIWOGSS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P1"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\BVIWGXDB\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P2"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\USSHXABJ\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P3"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\FCQOCDQA\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P4"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\YBOJKVWB\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P5"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\SFFMDBRQ\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P6"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\AOLEGRCD\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P7"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\GPPYIBAU\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1_P8"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\WQDONKCW\AEVQYRIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD2"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\MIXEHBDO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD3"; Footprint = "PCB-72k1vk0k27b6qyyenbg0-1"; UniqueID = "\TXDNBTUH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P1"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\BVIWGXDB\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P2"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\USSHXABJ\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P3"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\FCQOCDQA\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P4"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\YBOJKVWB\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P5"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\SFFMDBRQ\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P6"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\AOLEGRCD\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P7"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\GPPYIBAU\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1_P8"; Footprint = "PCB-gcdku7p92m9mz9ih2yin-1"; UniqueID = "\WQDONKCW\IYQTFLOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "ULN2803A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Mixic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOP-18_300mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C107219"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "PCB-kiok1jlp9o9fcwf1wwvf-1"; UniqueID = "\SGXLKCQM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "PCB-kiok1jlp9o9fcwf1wwvf-1"; UniqueID = "\CBPCTYLR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "PCB-kiok1jlp9o9fcwf1wwvf-1"; UniqueID = "\WWCSHQXI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4"; Footprint = "PCB-kiok1jlp9o9fcwf1wwvf-1"; UniqueID = "\VXHMXRAG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5"; Footprint = "PCB-kiok1jlp9o9fcwf1wwvf-1"; UniqueID = "\YCBKYUEP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6"; Footprint = "PCB-kiok1jlp9o9fcwf1wwvf-1"; UniqueID = "\CYBXPRCF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P1"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\BVIWGXDB\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P2"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\USSHXABJ\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P3"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\FCQOCDQA\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P4"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\YBOJKVWB\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P5"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\SFFMDBRQ\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P6"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\AOLEGRCD\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P7"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\GPPYIBAU\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_P8"; Footprint = "PCB-iok221h7g3hg093tnixb-1"; UniqueID = "\WQDONKCW\LHCWBDCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "NTMFS4C022NT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "42ac8f2778579d6b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/ntmfs4c022nt1g-on+semiconductor-75571101"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7"; Footprint = "JST S6B-XH-A"; UniqueID = "\UFMNRACN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "S6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C157919"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "250 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P1"; Footprint = "CAPC1608X09N"; UniqueID = "\BVIWGXDB\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P2"; Footprint = "CAPC1608X09N"; UniqueID = "\USSHXABJ\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P3"; Footprint = "CAPC1608X09N"; UniqueID = "\FCQOCDQA\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P4"; Footprint = "CAPC1608X09N"; UniqueID = "\YBOJKVWB\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P5"; Footprint = "CAPC1608X09N"; UniqueID = "\SFFMDBRQ\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P6"; Footprint = "CAPC1608X09N"; UniqueID = "\AOLEGRCD\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P7"; Footprint = "CAPC1608X09N"; UniqueID = "\GPPYIBAU\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1_P8"; Footprint = "CAPC1608X09N"; UniqueID = "\WQDONKCW\YKILFQKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC1608X09N"; UniqueID = "\UTPPMVMI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC1608X09N"; UniqueID = "\YTRROPAY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P1"; Footprint = "gen0603-2"; UniqueID = "\BVIWGXDB\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P2"; Footprint = "gen0603-2"; UniqueID = "\USSHXABJ\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P3"; Footprint = "gen0603-2"; UniqueID = "\FCQOCDQA\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P4"; Footprint = "gen0603-2"; UniqueID = "\YBOJKVWB\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P5"; Footprint = "gen0603-2"; UniqueID = "\SFFMDBRQ\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P6"; Footprint = "gen0603-2"; UniqueID = "\AOLEGRCD\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P7"; Footprint = "gen0603-2"; UniqueID = "\GPPYIBAU\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1_P8"; Footprint = "gen0603-2"; UniqueID = "\WQDONKCW\YDFTPPGE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P1"; Footprint = "gen0603-2"; UniqueID = "\BVIWGXDB\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P2"; Footprint = "gen0603-2"; UniqueID = "\USSHXABJ\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P3"; Footprint = "gen0603-2"; UniqueID = "\FCQOCDQA\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P4"; Footprint = "gen0603-2"; UniqueID = "\YBOJKVWB\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P5"; Footprint = "gen0603-2"; UniqueID = "\SFFMDBRQ\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P6"; Footprint = "gen0603-2"; UniqueID = "\AOLEGRCD\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P7"; Footprint = "gen0603-2"; UniqueID = "\GPPYIBAU\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_P8"; Footprint = "gen0603-2"; UniqueID = "\WQDONKCW\HXLHAYWT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P1"; Footprint = "gen0603-2"; UniqueID = "\BVIWGXDB\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P2"; Footprint = "gen0603-2"; UniqueID = "\USSHXABJ\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P3"; Footprint = "gen0603-2"; UniqueID = "\FCQOCDQA\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P4"; Footprint = "gen0603-2"; UniqueID = "\YBOJKVWB\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P5"; Footprint = "gen0603-2"; UniqueID = "\SFFMDBRQ\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P6"; Footprint = "gen0603-2"; UniqueID = "\AOLEGRCD\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P7"; Footprint = "gen0603-2"; UniqueID = "\GPPYIBAU\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3_P8"; Footprint = "gen0603-2"; UniqueID = "\WQDONKCW\PCFNCBHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8"; Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\UEJRVOYF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3.00 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 3 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C157928"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P1"; Footprint = "SOT-23"; UniqueID = "\BVIWGXDB\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P2"; Footprint = "SOT-23"; UniqueID = "\USSHXABJ\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P3"; Footprint = "SOT-23"; UniqueID = "\FCQOCDQA\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P4"; Footprint = "SOT-23"; UniqueID = "\YBOJKVWB\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P5"; Footprint = "SOT-23"; UniqueID = "\SFFMDBRQ\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P6"; Footprint = "SOT-23"; UniqueID = "\AOLEGRCD\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P7"; Footprint = "SOT-23"; UniqueID = "\GPPYIBAU\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_P8"; Footprint = "SOT-23"; UniqueID = "\WQDONKCW\NEKDOMVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Breakdown Voltage [Collector to Emitter]"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-200 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3906LT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "79f4b3b314a6a633"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C53444"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-40.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9"; Footprint = "PCB-fv0n1qe7e7tw0owzte2c-1"; UniqueID = "\DLXSUITA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "7.00 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B4PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/b4ps-vh%28lf%29%28sn%29-jst-248814"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "85.0 °C (max)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Pitch"; Value = "3.96 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size-Height"; Value = "8.50 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size-Length"; Value = "15.8 mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10"; Footprint = "PCB-fv0n1qe7e7tw0owzte2c-1"; UniqueID = "\DEFOMXJT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "7.00 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "B4PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/b4ps-vh%28lf%29%28sn%29-jst-248814"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "85.0 °C (max)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Pitch"; Value = "3.96 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size-Height"; Value = "8.50 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size-Length"; Value = "15.8 mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "PCB-xp4qbii5l2bbflfsgoli-1"; UniqueID = "\TUGNNMAV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "20.0 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "PDIP, SOIC, SOP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CD4051BNSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "7a8fb3826b5da548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/cd4051bnsr-texas+instruments-472244"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55.0 °C to 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "SOIC-16_208mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay Max (tpd)"; Value = "20.0 ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "80.0 nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C87646"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "100 µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage (DC)"; Value = "15.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Nodes"; Value = "10.0 V, 5.00 V, 15.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "PCB-xp4qbii5l2bbflfsgoli-1"; UniqueID = "\BTKJBTIY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "20.0 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "PDIP, SOIC, SOP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CD4051BNSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "7a8fb3826b5da548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/cd4051bnsr-texas+instruments-472244"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55.0 °C to 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "SOIC-16_208mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay Max (tpd)"; Value = "20.0 ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "80.0 nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C87646"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "100 µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage (DC)"; Value = "15.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Nodes"; Value = "10.0 V, 5.00 V, 15.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "PCB-xp4qbii5l2bbflfsgoli-1"; UniqueID = "\CNVMUCTH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "20.0 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "PDIP, SOIC, SOP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CD4051BNSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Bits"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "7a8fb3826b5da548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/cd4051bnsr-texas+instruments-472244"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55.0 °C to 125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "SOIC-16_208mil"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay Max (tpd)"; Value = "20.0 ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Quiescent Current"; Value = "80.0 nA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C87646"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "100 µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage (DC)"; Value = "15.0 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Nodes"; Value = "10.0 V, 5.00 V, 15.0 V"; VariantName = "[No Variations]"
+Added Room: Name=P1
+Added Room: Name=P2
+Added Room: Name=P3
+Added Room: Name=P4
+Added Room: Name=P5
+Added Room: Name=P6
+Added Room: Name=P7
+Added Room: Name=P8
+Added Room: Name=Switch Matrix

@@ -1,0 +1,139 @@
+Removed Pin From Net: NetName=DOUT Pin=U24-9
+Added Component: Designator=C33(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Added Component: Designator=U19(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C5947.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Added Component: Designator=U25(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C5947.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C5947"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=+3.3V Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=+3.3V Pin=C34-2
+Added Pin To Net: NetName=IO-1-2-off Pin=U19-1
+Added Pin To Net: NetName=IO-3-4-on Pin=U19-2
+Added Pin To Net: NetName=IO-3-4-off Pin=U19-3
+Added Pin To Net: NetName=IO-5-6-on Pin=U19-4
+Added Pin To Net: NetName=IO-5-6-off Pin=U19-5
+Added Pin To Net: NetName=IO-7-8-on Pin=U19-6
+Added Pin To Net: NetName=IO-7-8-off Pin=U19-7
+Added Pin To Net: NetName=GND Pin=U19-8
+Added Pin To Net: NetName=RST Pin=U19-10
+Added Pin To Net: NetName=SHCP Pin=U19-11
+Added Pin To Net: NetName=STCP Pin=U19-12
+Added Pin To Net: NetName=OE Pin=U19-13
+Added Pin To Net: NetName=IO-1-2-on Pin=U19-15
+Added Pin To Net: NetName=+3.3V Pin=U19-16
+Added Pin To Net: NetName=IO-9-10-off Pin=U25-1
+Added Pin To Net: NetName=IO-11-12-on Pin=U25-2
+Added Pin To Net: NetName=IO-11-12-off Pin=U25-3
+Added Pin To Net: NetName=IO-13-14-on Pin=U25-4
+Added Pin To Net: NetName=IO-13-14-off Pin=U25-5
+Added Pin To Net: NetName=IO-15-16-on Pin=U25-6
+Added Pin To Net: NetName=IO-15-16-off Pin=U25-7
+Added Pin To Net: NetName=GND Pin=U25-8
+Added Pin To Net: NetName=DOUT Pin=U25-9
+Added Pin To Net: NetName=RST Pin=U25-10
+Added Pin To Net: NetName=SHCP Pin=U25-11
+Added Pin To Net: NetName=STCP Pin=U25-12
+Added Pin To Net: NetName=OE Pin=U25-13
+Added Pin To Net: NetName=IO-9-10-on Pin=U25-15
+Added Pin To Net: NetName=+3.3V Pin=U25-16
+Added Pin To Net: NetName=NetU19_9 Pin=U19-9
+Added Pin To Net: NetName=NetU19_9 Pin=U25-14
+Added Net: Name=NetU19_9
+Added Pin To Net: NetName=to_switch Pin=U19-14
+Added Pin To Net: NetName=to_switch Pin=U24-9
+Added Net: Name=to_switch
+Added Member To Class: ClassName=Level Translateor switches Member=Component C33 100nF
+Added Member To Class: ClassName=Level Translateor switches Member=Component C34 100nF
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q1 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q4 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q5 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q6 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q7 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q8 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component R23 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R24 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R28 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R29 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R30 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R40 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R43 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R44 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R49 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R51 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R52 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R53 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R54 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R55 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R56 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R57 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R58 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R59 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R60 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R61 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R62 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R63 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R64 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R65 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R66 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R67 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R68 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R69 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R70 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R71 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component T1 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T2 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T3 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T4 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T5 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T6 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T7 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T8 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T9 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T10 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T12 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T13 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T14 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T15 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T16 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component U19 74HC595D,118
+Added Member To Class: ClassName=Level Translateor switches Member=Component U25 74HC595D,118

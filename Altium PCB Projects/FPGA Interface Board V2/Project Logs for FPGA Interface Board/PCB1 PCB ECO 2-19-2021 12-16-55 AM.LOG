@@ -1,0 +1,10 @@
+Change Component Comment : Designator=R28 Old Comment=220 New Comment=470
+Change Net Name : Old Net Name=IO1-2-off New Net Name=IO-1-2-off
+Change Net Name : Old Net Name=IO1-2-on New Net Name=IO-1-2-on
+Change Net Name : Old Net Name=IO1-2-out New Net Name=IO-1-2-out
+Added Net: Name=IO-3-4-off
+Added Net: Name=IO-3-4-on
+Added Net: Name=IO-3-4-out
+Added Net: Name=NetQ?_1
+Added Net: Name=NetQ?_2
+Added Net: Name=NetR?_2

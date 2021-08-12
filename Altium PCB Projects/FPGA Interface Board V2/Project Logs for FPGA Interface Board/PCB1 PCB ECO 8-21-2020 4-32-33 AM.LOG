@@ -1,0 +1,12 @@
+Added Component: Designator=JP1(PCB-sjva3kmaxrqfkswkvsp7-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CustomComponentID"; Value = "75tq5o8j4p0avfd6ylbk"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(PCB-sjva3kmaxrqfkswkvsp7-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CustomComponentID"; Value = "75tq5o8j4p0avfd6ylbk"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC38_2 Pin=JP1-1
+Added Pin To Net: NetName=DUT_VH Pin=JP1-2
+Added Pin To Net: NetName=NetC46_2 Pin=JP2-1
+Added Pin To Net: NetName=DUT_VH Pin=JP2-2
+Added Member To Class: ClassName=Logic Voltage Source Member=Component JP1 Jumper Pad
+Added Member To Class: ClassName=Logic Voltage Source Member=Component JP2 Jumper Pad

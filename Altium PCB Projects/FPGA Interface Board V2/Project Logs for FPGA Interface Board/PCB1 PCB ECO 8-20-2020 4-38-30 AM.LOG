@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3.3V Pin=CN5-1
+Removed Pin From Net: NetName=+5V Pin=CN5-3
+Added Component: Designator=CN?(CONN-TH_HAA420A-4A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "BOOMELE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "pitch4.2MMsocket2*2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C24697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C24697.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "pitch4.2MMsocket2*2P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=CN5-1
+Added Pin To Net: NetName=+3.3V Pin=CN5-3
+Added Member To Class: ClassName=FPGA Member=Component CN? pitch4.2MMsocket2*2P

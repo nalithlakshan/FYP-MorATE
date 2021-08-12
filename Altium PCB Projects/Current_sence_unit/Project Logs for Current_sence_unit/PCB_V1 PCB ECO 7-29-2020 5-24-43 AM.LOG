@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=V+ Pin=R29-1
+Removed Pin From Net: NetName=5ISO+ Pin=R29-2
+Removed Member From Class: ClassName=Current_sence-load-volt_meter Member=J?
+Removed Member From Class: ClassName=Current_sence-load-volt_meter Member=R34
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change component parameters: Designator = "J8"; Footprint = "JST-S3B-XH-A(LF)(SN)_V"; UniqueID = "\UQQLOJVH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3.00 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 3 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C157928"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "MF06A_N"; UniqueID = "\PBGABEBQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "6.50 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Not Listed by Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX4239AUT+T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "250bee9e4f44facc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/max4239aut%2Bt-maxim+integrated-43994921"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate"; Value = "1.60 V/µs"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6"; Footprint = "SOIC-OA8_M"; UniqueID = "\HFLXBNSD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "1.10 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth Product"; Value = "1.10 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TLV2172IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "9a3c516d515145fb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/lm358dt-stmicroelectronics-39579147"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT), Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate"; Value = "600 mV/µs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C129149"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "700 µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage (DC)"; Value = "32.0 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "SOIC-OA8_M"; UniqueID = "\VFBRIMWP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Bandwidth"; Value = "1.10 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth Product"; Value = "1.10 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LM358DT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Circuits"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "OctopartID"; Value = "9a3c516d515145fb"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/lm358dt-stmicroelectronics-39579147"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT), Tape & Reel (TR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate"; Value = "600 mV/µs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C9418"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Current"; Value = "700 µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage (DC)"; Value = "32.0 V"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ7_2 New Net Name=NetJ8_2
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ8_3
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetR30_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR31_2

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=+5V Pin=C2-2
+Removed Pin From Net: NetName=+5V Pin=C3-2
+Removed Pin From Net: NetName=+5V Pin=DD2-16
+Removed Pin From Net: NetName=+5V Pin=DD3-16
+Removed Pin From Net: NetName=A- Pin=J3-1
+Removed Pin From Net: NetName=A+ Pin=J3-2
+Removed Pin From Net: NetName=V Pin=J3-3
+Removed Pin From Net: NetName=+12V Pin=J9-1
+Removed Pin From Net: NetName=+5V Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=J9-3
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Added Component: Designator=J3(PCB-kiok1jlp9o9fcwf1wwvf-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Added Component: Designator=J4(PCB-kiok1jlp9o9fcwf1wwvf-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Added Component: Designator=J5(PCB-kiok1jlp9o9fcwf1wwvf-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A+ Pin=J3-1
+Added Pin To Net: NetName=A- Pin=J3-2
+Added Pin To Net: NetName=V Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Member To Class: ClassName=Switch Matrix Member=Component J4 DB126V-5.0-2P-GN

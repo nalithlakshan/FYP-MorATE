@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R40 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R41 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R42 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Footprint: Designator=R43 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Comment : Designator=R40 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R41 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R42 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R43 Old Comment=10k New Comment=4.7k

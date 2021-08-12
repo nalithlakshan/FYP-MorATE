@@ -1,0 +1,122 @@
+Added Component: Designator=C41(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Added Component: Designator=C42(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "WTC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "0603B474K100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C123513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "0603B474K100"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C98220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "0603WAF1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C25803"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF4992T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UniOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "0603WAF4992T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C23184"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C22548"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C98220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MCP1826T-ADJE/DC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MCP1826T-ADJE/DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C147898"; VariantName = "[No Variations]"
+Added Component: Designator=U20(VREG_L78M06CDT-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "L78M06CDT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L78M06CDT-TR/STMicroelectronics/view-part/276899/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C157444"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=+12V Pin=C42-2
+Added Pin To Net: NetName=+3.3V Pin=R6-2
+Added Pin To Net: NetName=DUT_VH Pin=R10-2
+Added Pin To Net: NetName=VSET Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=DUT_VH Pin=U1-4
+Added Pin To Net: NetName=+12V Pin=U20-1
+Added Pin To Net: NetName=GND Pin=U20-2
+Added Pin To Net: NetName=6VOUT Pin=C41-2
+Added Pin To Net: NetName=6VOUT Pin=U1-2
+Added Pin To Net: NetName=6VOUT Pin=U20-3
+Added Net: Name=6VOUT
+Added Pin To Net: NetName=EN Pin=R6-1
+Added Pin To Net: NetName=EN Pin=U1-1
+Added Net: Name=EN
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-1
+Added Pin To Net: NetName=NetR10_1 Pin=R12-2
+Added Pin To Net: NetName=NetR10_1 Pin=U1-5
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R22-2
+Added Net: Name=NetR12_1
+Added Member To Class: ClassName=Logic Voltage Source Member=Component C41 100nF
+Added Member To Class: ClassName=Logic Voltage Source Member=Component C42 470nF
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R6 10K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R10 100K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R11 49.9K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R12 1K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R22 10K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component U1 MCP1826T-ADJE/DC
+Added Member To Class: ClassName=Logic Voltage Source Member=Component U20 L78M06CDT-TR

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R32 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Comment : Designator=R32 Old Comment=51k New Comment=16.2k
+Change component parameters: Designator = "R32"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\ICRWGBVK\TQPCHHQC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF1622T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "16.2k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C22885"; VariantName = "[No Variations]"

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=C5 Pin=CN14-1
+Removed Pin From Net: NetName=B0 Pin=CN14-2
+Removed Pin From Net: NetName=B1 Pin=CN14-3
+Removed Pin From Net: NetName=B2 Pin=CN14-4
+Removed Pin From Net: NetName=F11 Pin=CN14-5
+Removed Pin From Net: NetName=C5 Pin=U6-41
+Removed Pin From Net: NetName=B0 Pin=U6-42
+Removed Pin From Net: NetName=B1 Pin=U6-43
+Removed Pin From Net: NetName=B2 Pin=U6-44
+Removed Pin From Net: NetName=F11 Pin=U6-45
+Added Pin To Net: NetName=C4 Pin=CN14-1
+Added Pin To Net: NetName=C5 Pin=CN14-2
+Added Pin To Net: NetName=B0 Pin=CN14-3
+Added Pin To Net: NetName=B1 Pin=CN14-4
+Added Pin To Net: NetName=B2 Pin=CN14-5
+Added Pin To Net: NetName=F11 Pin=CN14-6
+Added Pin To Net: NetName=C4 Pin=U6-41
+Added Pin To Net: NetName=C5 Pin=U6-42
+Added Pin To Net: NetName=B0 Pin=U6-43
+Added Pin To Net: NetName=B1 Pin=U6-44
+Added Pin To Net: NetName=B2 Pin=U6-45
+Added Pin To Net: NetName=F11 Pin=U6-46
+Change Net Name : Old Net Name=B0 New Net Name=B1
+Change Net Name : Old Net Name=B1 New Net Name=B2
+Change Net Name : Old Net Name=B2 New Net Name=F11
+Change Net Name : Old Net Name=C4 New Net Name=C5
+Change Net Name : Old Net Name=C5 New Net Name=B0
+Change Net Name : Old Net Name=F11 New Net Name=F12

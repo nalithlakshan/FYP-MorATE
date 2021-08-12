@@ -1,0 +1,89 @@
+Added Component: Designator=D1(0603LED_GEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Component: Designator=D2(0603LED_GEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Everlight Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C72044"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PCB-55llon6gpk2h6a06nz0l-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "0.02 ?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3.0 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free Status"; Value = "Not Reviewed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5000000000.0 ?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Not Listed by Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "90120-0762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole, Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "8fae46aeaafe5069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "http://octopart.com/90120-0762-molex-655414"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "0.00254 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Height"; Value = "0.0025 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Length"; Value = "0.00508 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Width"; Value = "0.00254 m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "350.0 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "350.0 V"; VariantName = "[No Variations]"
+Added Component: Designator=U5(MF03A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM4040CEM3-2.5/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "26c2eeb2a10af905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = "https://octopart.com/lm4040cem3-2.5%2Fnopb-texas+instruments-24814254"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "0.015 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "2.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Component: Designator=U8(Z03A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.0 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "0.003 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM337LZ/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Regulated Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OctopartID"; Value = "cd28055848e712ef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Url"; Value = "https://octopart.com/lm337lz%2Fnopb-texas+instruments-24813737"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "0.1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=2.5V_REF Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=-1.2V Pin=U8-2
+Added Pin To Net: NetName=-5V Pin=U8-3
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component D1 Green LED 0603
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component D2 Red LED 0603
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J1 Molex 90120-0762
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component U5 LM4040-2.5
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component U8 LM337L

@@ -1,0 +1,88 @@
+Removed Parameter BOM_Manufacturer:DIODES from Part U8
+Removed Parameter BOM_Manufacturer:SAMSUNG from Part C7
+Removed Parameter BOM_Manufacturer:SAMSUNG from Part C8
+Removed Parameter BOM_Manufacturer:SAMSUNG from Part C10
+Removed Parameter BOM_Manufacturer:SAMSUNG from Part C12
+Removed Parameter BOM_Manufacturer:SAMSUNG from Part C14
+Removed Parameter BOM_Manufacturer:TI from Part U6
+Removed Parameter BOM_Manufacturer:TI from Part U7
+Removed Parameter BOM_Manufacturer:YAGEO from Part C9
+Removed Parameter BOM_Manufacturer:YAGEO from Part C11
+Removed Parameter BOM_Manufacturer:YAGEO from Part C13
+Removed Parameter BOM_Manufacturer Part:AZ1117CH-3.3TRG1 from Part U8
+Removed Parameter BOM_Manufacturer Part:CC0603KRX7R9BB104 from Part C9
+Removed Parameter BOM_Manufacturer Part:CC0603KRX7R9BB104 from Part C11
+Removed Parameter BOM_Manufacturer Part:CC0603KRX7R9BB104 from Part C13
+Removed Parameter BOM_Manufacturer Part:CL10A226MP8NUNE from Part C8
+Removed Parameter BOM_Manufacturer Part:CL21B106KOQNNNE from Part C7
+Removed Parameter BOM_Manufacturer Part:CL21B106KOQNNNE from Part C10
+Removed Parameter BOM_Manufacturer Part:CL21B106KOQNNNE from Part C12
+Removed Parameter BOM_Manufacturer Part:CL21B106KOQNNNE from Part C14
+Removed Parameter BOM_Manufacturer Part:ULN2003ADR from Part U6
+Removed Parameter BOM_Manufacturer Part:ULN2003ADR from Part U7
+Removed Parameter BOM_Supplier:LCSC from Part C7
+Removed Parameter BOM_Supplier:LCSC from Part C8
+Removed Parameter BOM_Supplier:LCSC from Part C9
+Removed Parameter BOM_Supplier:LCSC from Part C10
+Removed Parameter BOM_Supplier:LCSC from Part C11
+Removed Parameter BOM_Supplier:LCSC from Part C12
+Removed Parameter BOM_Supplier:LCSC from Part C13
+Removed Parameter BOM_Supplier:LCSC from Part C14
+Removed Parameter BOM_Supplier:LCSC from Part U6
+Removed Parameter BOM_Supplier:LCSC from Part U7
+Removed Parameter BOM_Supplier:LCSC from Part U8
+Removed Parameter BOM_Supplier Part:C7512 from Part U6
+Removed Parameter BOM_Supplier Part:C7512 from Part U7
+Removed Parameter BOM_Supplier Part:C14663 from Part C9
+Removed Parameter BOM_Supplier Part:C14663 from Part C11
+Removed Parameter BOM_Supplier Part:C14663 from Part C13
+Removed Parameter BOM_Supplier Part:C86295 from Part C8
+Removed Parameter BOM_Supplier Part:C92102 from Part U8
+Removed Parameter BOM_Supplier Part:C95841 from Part C7
+Removed Parameter BOM_Supplier Part:C95841 from Part C10
+Removed Parameter BOM_Supplier Part:C95841 from Part C12
+Removed Parameter BOM_Supplier Part:C95841 from Part C14
+Added Parameter Manufacture Part Number=AZ1117CH-3.3TRG1 to Part U8
+Added Parameter Manufacture Part Number=CC0603KRX7R9BB104 to Part C9
+Added Parameter Manufacture Part Number=CC0603KRX7R9BB104 to Part C11
+Added Parameter Manufacture Part Number=CC0603KRX7R9BB104 to Part C13
+Added Parameter Manufacture Part Number=CL10A226MP8NUNE to Part C8
+Added Parameter Manufacture Part Number=CL21B106KOQNNNE to Part C7
+Added Parameter Manufacture Part Number=CL21B106KOQNNNE to Part C10
+Added Parameter Manufacture Part Number=CL21B106KOQNNNE to Part C12
+Added Parameter Manufacture Part Number=CL21B106KOQNNNE to Part C14
+Added Parameter Manufacture Part Number=ULN2003ADR to Part U6
+Added Parameter Manufacture Part Number=ULN2003ADR to Part U7
+Added Parameter Manufacturer=DIODES to Part U8
+Added Parameter Manufacturer=SAMSUNG to Part C7
+Added Parameter Manufacturer=SAMSUNG to Part C8
+Added Parameter Manufacturer=SAMSUNG to Part C10
+Added Parameter Manufacturer=SAMSUNG to Part C12
+Added Parameter Manufacturer=SAMSUNG to Part C14
+Added Parameter Manufacturer=TI to Part U6
+Added Parameter Manufacturer=TI to Part U7
+Added Parameter Manufacturer=YAGEO to Part C9
+Added Parameter Manufacturer=YAGEO to Part C11
+Added Parameter Manufacturer=YAGEO to Part C13
+Added Parameter Supplier=LCSC to Part C7
+Added Parameter Supplier=LCSC to Part C8
+Added Parameter Supplier=LCSC to Part C9
+Added Parameter Supplier=LCSC to Part C10
+Added Parameter Supplier=LCSC to Part C11
+Added Parameter Supplier=LCSC to Part C12
+Added Parameter Supplier=LCSC to Part C13
+Added Parameter Supplier=LCSC to Part C14
+Added Parameter Supplier=LCSC to Part U6
+Added Parameter Supplier=LCSC to Part U7
+Added Parameter Supplier=LCSC to Part U8
+Added Parameter Supplier Part Number=C7512 to Part U6
+Added Parameter Supplier Part Number=C7512 to Part U7
+Added Parameter Supplier Part Number=C14663 to Part C9
+Added Parameter Supplier Part Number=C14663 to Part C11
+Added Parameter Supplier Part Number=C14663 to Part C13
+Added Parameter Supplier Part Number=C86295 to Part C8
+Added Parameter Supplier Part Number=C92102 to Part U8
+Added Parameter Supplier Part Number=C95841 to Part C7
+Added Parameter Supplier Part Number=C95841 to Part C10
+Added Parameter Supplier Part Number=C95841 to Part C12
+Added Parameter Supplier Part Number=C95841 to Part C14

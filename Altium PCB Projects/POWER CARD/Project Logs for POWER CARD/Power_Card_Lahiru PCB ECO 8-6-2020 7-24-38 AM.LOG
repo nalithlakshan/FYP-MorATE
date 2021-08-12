@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=EN_4 Pin=IC1-3
+Added Pin To Net: NetName=+12V Pin=IC1-3
+Added Member To Class: ClassName=L1 Member=Component C32_L1 (C32) 100nF

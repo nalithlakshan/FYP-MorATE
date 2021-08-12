@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DC Switch Matrix.PrjPcb]
+   Generated File[Switch Matrix PCB.TXT]
+   Generated File[Switch Matrix PCB.LDP]
+   Generated File[Switch Matrix PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:29:34 AM On 9/9/2020

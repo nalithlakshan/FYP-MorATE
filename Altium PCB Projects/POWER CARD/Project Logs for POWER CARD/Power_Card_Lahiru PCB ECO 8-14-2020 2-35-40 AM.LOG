@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Comment : Designator=C26 Old Comment=100nF New Comment=470nF
+Change component parameters: Designator = "C26"; Footprint = "CAPC1608X09N"; UniqueID = "\WXMJPWFK\JMXMEAML"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "CL10F474ZO8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C318652"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "16V"; VariantName = "[No Variations]"

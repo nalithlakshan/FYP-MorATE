@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=C32_current_limit NewDesignator=C32_CL1
+Change Component Designator: OldDesignator=C32_Current Limit NewDesignator=C32_CL3
+Change Component Designator: OldDesignator=C32_Current Limiter NewDesignator=C32_CL2
+Change Component Designator: OldDesignator=C33_current_limit NewDesignator=C33_CL1
+Change Component Designator: OldDesignator=C33_Current Limit NewDesignator=C33_CL3
+Change Component Designator: OldDesignator=C33_Current Limiter NewDesignator=C33_CL2
+Change Component Designator: OldDesignator=C34_current_limit NewDesignator=C34_CL1
+Change Component Designator: OldDesignator=C34_Current Limit NewDesignator=C34_CL3
+Change Component Designator: OldDesignator=C34_Current Limiter NewDesignator=C34_CL2
+Change Component Designator: OldDesignator=IC3_current_limit NewDesignator=IC3_CL1
+Change Component Designator: OldDesignator=IC3_Current Limit NewDesignator=IC3_CL3
+Change Component Designator: OldDesignator=IC3_Current Limiter NewDesignator=IC3_CL2
+Change Component Designator: OldDesignator=Q3_current_limit NewDesignator=Q3_CL1
+Change Component Designator: OldDesignator=Q3_Current Limit NewDesignator=Q3_CL3
+Change Component Designator: OldDesignator=Q3_Current Limiter NewDesignator=Q3_CL2
+Change Component Designator: OldDesignator=Q4_current_limit NewDesignator=Q4_CL1
+Change Component Designator: OldDesignator=Q4_Current Limit NewDesignator=Q4_CL3
+Change Component Designator: OldDesignator=Q4_Current Limiter NewDesignator=Q4_CL2
+Change Component Designator: OldDesignator=Q5_current_limit NewDesignator=Q5_CL1
+Change Component Designator: OldDesignator=Q5_Current Limit NewDesignator=Q5_CL3
+Change Component Designator: OldDesignator=Q5_Current Limiter NewDesignator=Q5_CL2
+Change Component Designator: OldDesignator=R36_current_limit NewDesignator=R36_CL1
+Change Component Designator: OldDesignator=R36_Current Limit NewDesignator=R36_CL3
+Change Component Designator: OldDesignator=R36_Current Limiter NewDesignator=R36_CL2
+Change Component Designator: OldDesignator=R37_current_limit NewDesignator=R37_CL1
+Change Component Designator: OldDesignator=R37_Current Limit NewDesignator=R37_CL3
+Change Component Designator: OldDesignator=R37_Current Limiter NewDesignator=R37_CL2
+Change Component Designator: OldDesignator=R38_current_limit NewDesignator=R38_CL1
+Change Component Designator: OldDesignator=R38_Current Limit NewDesignator=R38_CL3
+Change Component Designator: OldDesignator=R38_Current Limiter NewDesignator=R38_CL2
+Change Component Designator: OldDesignator=R39_current_limit NewDesignator=R39_CL1
+Change Component Designator: OldDesignator=R39_Current Limit NewDesignator=R39_CL3
+Change Component Designator: OldDesignator=R39_Current Limiter NewDesignator=R39_CL2
+Change Net Name : Old Net Name=NetC33_current_limit_2 New Net Name=NetC33_CL1_2
+Change Net Name : Old Net Name=NetC34_current_limit_2 New Net Name=NetC34_CL1_2
+Change Net Name : Old Net Name=NetC34_Current Limit_2 New Net Name=NetC34_CL3_2
+Change Net Name : Old Net Name=NetC34_Current Limiter_2 New Net Name=NetC34_CL2_2
+Change Net Name : Old Net Name=NetIC3_current_limit_1 New Net Name=NetIC3_CL1_1
+Change Net Name : Old Net Name=NetIC3_Current Limit_1 New Net Name=NetIC3_CL3_1
+Change Net Name : Old Net Name=NetIC3_Current Limiter_1 New Net Name=NetIC3_CL2_1
+Change Net Name : Old Net Name=NetQ3_current_limit_3 New Net Name=NetQ3_CL1_3
+Change Net Name : Old Net Name=NetQ4_current_limit_1 New Net Name=NetQ4_CL1_1
+Change Net Name : Old Net Name=NetQ4_current_limit_3 New Net Name=NetQ4_CL1_3
+Change Net Name : Old Net Name=NetQ4_Current Limit_1 New Net Name=NetQ4_CL3_1
+Change Net Name : Old Net Name=NetQ4_Current Limit_3 New Net Name=NetQ4_CL3_3
+Change Net Name : Old Net Name=NetQ4_Current Limiter_1 New Net Name=NetQ4_CL2_1
+Change Net Name : Old Net Name=NetQ4_Current Limiter_3 New Net Name=NetQ4_CL2_3
+Change Net Name : Old Net Name=NetQ5_current_limit_1 New Net Name=NetQ5_CL1_1
+Change Net Name : Old Net Name=NetQ5_Current Limit_1 New Net Name=NetQ5_CL3_1
+Change Net Name : Old Net Name=NetQ5_Current Limiter_1 New Net Name=NetQ5_CL2_1
+Change Class Name : Old Net Name=current_limit New Net Name=CL1
+Change Class Name : Old Net Name=Current Limit New Net Name=CL3
+Change Class Name : Old Net Name=Current Limiter New Net Name=CL2

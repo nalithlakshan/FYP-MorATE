@@ -1,0 +1,91 @@
+Removed Member From Class: ClassName=Level Translateor switches Member=Q?
+Removed Member From Class: ClassName=Level Translateor switches Member=R?
+Removed Member From Class: ClassName=Level Translateor switches Member=T?
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q6
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q7
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q8
+Change Component Designator: OldDesignator=R24 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R44
+Change Component Designator: OldDesignator=R29 NewDesignator=R52
+Change Component Designator: OldDesignator=R30 NewDesignator=R24
+Change Component Designator: OldDesignator=R40 NewDesignator=R49
+Change Component Designator: OldDesignator=R43 NewDesignator=R53
+Change Component Designator: OldDesignator=R44 NewDesignator=R28
+Change Component Designator: OldDesignator=R49 NewDesignator=R40
+Change Component Designator: OldDesignator=R51 NewDesignator=R54
+Change Component Designator: OldDesignator=R52 NewDesignator=R56
+Change Component Designator: OldDesignator=R53 NewDesignator=R60
+Change Component Designator: OldDesignator=R54 NewDesignator=R64
+Change Component Designator: OldDesignator=R55 NewDesignator=R68
+Change Component Designator: OldDesignator=R56 NewDesignator=R57
+Change Component Designator: OldDesignator=R57 NewDesignator=R61
+Change Component Designator: OldDesignator=R58 NewDesignator=R65
+Change Component Designator: OldDesignator=R59 NewDesignator=R69
+Change Component Designator: OldDesignator=R60 NewDesignator=R58
+Change Component Designator: OldDesignator=R61 NewDesignator=R62
+Change Component Designator: OldDesignator=R62 NewDesignator=R66
+Change Component Designator: OldDesignator=R63 NewDesignator=R70
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R55
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Component Designator: OldDesignator=R? NewDesignator=R63
+Change Component Designator: OldDesignator=R? NewDesignator=R67
+Change Component Designator: OldDesignator=R? NewDesignator=R71
+Change Component Designator: OldDesignator=T2 NewDesignator=T5
+Change Component Designator: OldDesignator=T3 NewDesignator=T2
+Change Component Designator: OldDesignator=T4 NewDesignator=T6
+Change Component Designator: OldDesignator=T5 NewDesignator=T3
+Change Component Designator: OldDesignator=T6 NewDesignator=T7
+Change Component Designator: OldDesignator=T7 NewDesignator=T9
+Change Component Designator: OldDesignator=T8 NewDesignator=T13
+Change Component Designator: OldDesignator=T9 NewDesignator=T10
+Change Component Designator: OldDesignator=T10 NewDesignator=T14
+Change Component Designator: OldDesignator=T12 NewDesignator=T15
+Change Component Designator: OldDesignator=T? NewDesignator=T4
+Change Component Designator: OldDesignator=T? NewDesignator=T8
+Change Component Designator: OldDesignator=T? NewDesignator=T12
+Change Component Designator: OldDesignator=T? NewDesignator=T16
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=NetQ5_2
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=NetQ6_2
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ7_1
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=NetQ7_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR49_2 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetR53_2 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NetR57_2 New Net Name=NetR61_2
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR62_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR43_2
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R67-1
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_2 Pin=R59-2
+Added Pin To Net: NetName=NetQ8_2 Pin=T12-1
+Added Net: Name=NetQ8_2
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR63_2 Pin=R71-2
+Added Pin To Net: NetName=NetR63_2 Pin=T16-1
+Added Net: Name=NetR63_2
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q7 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q8 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component R64 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R65 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R66 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R67 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R68 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R69 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R70 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R71 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component T13 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T14 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T15 SI2302
+Added Member To Class: ClassName=Level Translateor switches Member=Component T16 SI2302
+Added Room: Name=Level Translateor switches

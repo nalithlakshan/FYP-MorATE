@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Level Translators Member=R86
+Added Pin To Net: NetName=XC Pin=R89-1
+Added Pin To Net: NetName=XD Pin=R89-2
+Added Pin To Net: NetName=XC Pin=R90-1
+Added Pin To Net: NetName=XD Pin=R90-2

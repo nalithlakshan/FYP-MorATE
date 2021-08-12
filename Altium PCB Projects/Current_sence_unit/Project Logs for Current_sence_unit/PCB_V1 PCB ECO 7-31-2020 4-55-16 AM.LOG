@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Load_select Pin=U12-11
+Removed Pin From Net: NetName=uA_Sense Pin=U12-12
+Removed Pin From Net: NetName=mA_Sense Pin=U12-13
+Removed Pin From Net: NetName=A_Sense Pin=U12-14
+Removed Pin From Net: NetName=nA_Sense Pin=U12-15
+Removed Pin From Net: NetName=uA_Select Pin=U12-16
+Removed Pin From Net: NetName=A_Select Pin=U12-18
+Added Pin To Net: NetName=A_Sense Pin=U12-11
+Added Pin To Net: NetName=mA_Sense Pin=U12-12
+Added Pin To Net: NetName=uA_Sense Pin=U12-13
+Added Pin To Net: NetName=Load_select Pin=U12-14
+Added Pin To Net: NetName=A_Select Pin=U12-15
+Added Pin To Net: NetName=nA_Sense Pin=U12-16
+Added Pin To Net: NetName=uA_Select Pin=U12-18

@@ -1,0 +1,15 @@
+Added Component: Designator=J9(CONN-TH_3P-P5.00_DB126V-5.0-3P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12V Pin=J9-1
+Added Pin To Net: NetName=+5V Pin=J9-2
+Added Pin To Net: NetName=GND Pin=J9-3
+Added Member To Class: ClassName=Switch Matrix Member=Component J9 DB126V-5.0-3P-GN
+Added Room: Name=P1
+Added Room: Name=P2
+Added Room: Name=P3
+Added Room: Name=P4
+Added Room: Name=P5
+Added Room: Name=P6
+Added Room: Name=P7
+Added Room: Name=P8
+Added Room: Name=Switch Matrix

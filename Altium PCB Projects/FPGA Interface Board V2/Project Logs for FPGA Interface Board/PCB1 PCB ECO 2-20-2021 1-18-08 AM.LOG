@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=T? NewDesignator=T3
+Change Component Designator: OldDesignator=T? NewDesignator=T4
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR39_2
+Added Member To Class: ClassName=Level Translateor switches Member=Component R39 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R40 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R43 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component T4 SI2302

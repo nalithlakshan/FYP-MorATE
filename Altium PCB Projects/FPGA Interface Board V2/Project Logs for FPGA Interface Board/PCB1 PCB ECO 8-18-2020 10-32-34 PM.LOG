@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=GPIO_114 Pin=CN1-1
+Removed Pin From Net: NetName=GPIO_115 Pin=CN1-2
+Removed Pin From Net: NetName=GPIO_116 Pin=CN1-3
+Removed Pin From Net: NetName=GPIO_117 Pin=CN1-4
+Removed Pin From Net: NetName=GPIO_118 Pin=CN1-5
+Removed Pin From Net: NetName=GPIO_119 Pin=CN1-6
+Removed Pin From Net: NetName=GPIO_128 Pin=CN2-1
+Removed Pin From Net: NetName=GPIO_129 Pin=CN2-2
+Removed Pin From Net: NetName=GPIO_130 Pin=CN2-3
+Removed Pin From Net: NetName=GPIO_131 Pin=CN2-4
+Removed Pin From Net: NetName=GPIO_132 Pin=CN2-5
+Removed Pin From Net: NetName=GPIO_133 Pin=CN2-6
+Removed Pin From Net: NetName=GPIO_120 Pin=CN3-1
+Removed Pin From Net: NetName=GPIO_121 Pin=CN3-2
+Removed Pin From Net: NetName=GPIO_123 Pin=CN3-3
+Removed Pin From Net: NetName=GPIO_124 Pin=CN3-4
+Removed Pin From Net: NetName=GPIO_126 Pin=CN3-5
+Removed Pin From Net: NetName=GPIO_127 Pin=CN3-6
+Removed Pin From Net: NetName=RST Pin=CN4-1
+Removed Pin From Net: NetName=SHCP Pin=CN4-2
+Removed Pin From Net: NetName=STCP Pin=CN4-3
+Removed Pin From Net: NetName=OE Pin=CN4-4
+Removed Pin From Net: NetName=DOUT Pin=CN4-5
+Removed Pin From Net: NetName=DIN Pin=CN4-6
+Added Component: Designator=CN1(CONN-TH_B8B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C157972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(CONN-TH_B8B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C157972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=CN3(CONN-TH_B8B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C157972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=CN4(CONN-TH_6P-P2.50_B6B-XH-A(LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "B6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C144397"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "B6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO_124 Pin=CN1-1
+Added Pin To Net: NetName=GPIO_123 Pin=CN1-2
+Added Pin To Net: NetName=GPIO_121 Pin=CN1-3
+Added Pin To Net: NetName=GPIO_120 Pin=CN1-4
+Added Pin To Net: NetName=GPIO_119 Pin=CN1-5
+Added Pin To Net: NetName=GPIO_118 Pin=CN1-6
+Added Pin To Net: NetName=GPIO_117 Pin=CN1-7
+Added Pin To Net: NetName=GPIO_116 Pin=CN1-8
+Added Pin To Net: NetName=GPIO_133 Pin=CN2-1
+Added Pin To Net: NetName=GPIO_132 Pin=CN2-2
+Added Pin To Net: NetName=GPIO_131 Pin=CN2-3
+Added Pin To Net: NetName=GPIO_130 Pin=CN2-4
+Added Pin To Net: NetName=GPIO_129 Pin=CN2-5
+Added Pin To Net: NetName=GPIO_128 Pin=CN2-6
+Added Pin To Net: NetName=GPIO_127 Pin=CN2-7
+Added Pin To Net: NetName=GPIO_126 Pin=CN2-8
+Added Pin To Net: NetName=GPIO_115 Pin=CN3-1
+Added Pin To Net: NetName=GPIO_114 Pin=CN3-2
+Added Pin To Net: NetName=RST Pin=CN4-1
+Added Pin To Net: NetName=SHCP Pin=CN4-2
+Added Pin To Net: NetName=STCP Pin=CN4-3
+Added Pin To Net: NetName=OE Pin=CN4-4
+Added Pin To Net: NetName=DOUT Pin=CN4-5
+Added Pin To Net: NetName=DIN Pin=CN4-6
+Added Pin To Net: NetName=PLL4_CLKOUTp Pin=RF2-5
+Added Pin To Net: NetName=GPIO_18 Pin=CN3-8
+Added Pin To Net: NetName=GPIO_18 Pin=U2-113
+Added Net: Name=GPIO_18
+Added Pin To Net: NetName=GPIO_19 Pin=CN3-7
+Added Pin To Net: NetName=GPIO_19 Pin=U2-114
+Added Net: Name=GPIO_19
+Added Pin To Net: NetName=GPIO_110 Pin=CN3-6
+Added Pin To Net: NetName=GPIO_110 Pin=U2-115
+Added Net: Name=GPIO_110
+Added Pin To Net: NetName=GPIO_111 Pin=CN3-5
+Added Pin To Net: NetName=GPIO_111 Pin=U2-116
+Added Net: Name=GPIO_111
+Added Pin To Net: NetName=GPIO_112 Pin=CN3-4
+Added Pin To Net: NetName=GPIO_112 Pin=U2-117
+Added Net: Name=GPIO_112
+Added Pin To Net: NetName=GPIO_113 Pin=CN3-3
+Added Pin To Net: NetName=GPIO_113 Pin=U2-118
+Added Net: Name=GPIO_113

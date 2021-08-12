@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=IC4 Old Footprint=SOIC-OA8_M New Footprint=SOIC-OA8_M
+Change Component Footprint: Designator=IC5 Old Footprint=SOIC-OA8_M New Footprint=SOIC-OA8_M
+Added Component: Designator=C?(CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=-1.2V Pin=C?-1
+Added Pin To Net: NetName=-1.2V Pin=C?-1
+Added Pin To Net: NetName=+24V Pin=C?-2
+Added Pin To Net: NetName=+24V Pin=C?-2
+Added Member To Class: ClassName=Power_Card Member=Component C? 100nF
+Added Member To Class: ClassName=Power_Card Member=Component C? 100nF
+Added Member To Class: ClassName=Power_Card Member=Component J14 M20-9990346
+Added Member To Class: ClassName=Power_Card Member=Component J15 M20-9990346

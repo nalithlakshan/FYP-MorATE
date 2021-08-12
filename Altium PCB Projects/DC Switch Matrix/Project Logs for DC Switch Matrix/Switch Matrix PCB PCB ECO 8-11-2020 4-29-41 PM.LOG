@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MUXA3 Pin=R14-1
+Removed Pin From Net: NetName=MUXEN1 Pin=R19-1
+Removed Pin From Net: NetName=MUXA3 Pin=U6-12
+Removed Pin From Net: NetName=MUXEN1 Pin=U7-12
+Added Pin To Net: NetName=MUXEN1 Pin=R14-1
+Added Pin To Net: NetName=MUXA3 Pin=R19-1
+Added Pin To Net: NetName=MUXEN1 Pin=U6-12
+Added Pin To Net: NetName=MUXA3 Pin=U7-12

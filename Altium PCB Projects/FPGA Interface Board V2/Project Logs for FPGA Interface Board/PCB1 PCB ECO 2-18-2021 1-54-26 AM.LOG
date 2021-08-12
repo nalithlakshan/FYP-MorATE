@@ -1,0 +1,21 @@
+Added Component: Designator=Q1(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3904LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C81464"; VariantName = "[No Variations]"
+Added Component: Designator=T1(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_2 Pin=T1-1
+Added Pin To Net: NetName=IO1-2-off Pin=T1-2
+Added Pin To Net: NetName=+3.3V Pin=T1-3
+Added Pin To Net: NetName=NetR24_2 Pin=T2-1
+Added Pin To Net: NetName=IO1-2-off Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T2-3
+Added Class: Name=Level Translateor switches
+Added Room: Name=Level Translateor switches

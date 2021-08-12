@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=IO1 NewDesignator=IO_1
+Change Component Designator: OldDesignator=IO2 NewDesignator=IO_2
+Change Component Designator: OldDesignator=IO3 NewDesignator=IO_3
+Change Component Designator: OldDesignator=IO4 NewDesignator=IO_4
+Change Component Designator: OldDesignator=IO5 NewDesignator=IO_5
+Change Component Designator: OldDesignator=IO6 NewDesignator=IO_6
+Change Component Designator: OldDesignator=IO7 NewDesignator=IO_7
+Change Component Designator: OldDesignator=IO8 NewDesignator=IO_8
+Change Component Designator: OldDesignator=IO9 NewDesignator=IO_9
+Change Component Designator: OldDesignator=IO10 NewDesignator=IO_10
+Change Component Designator: OldDesignator=IO11 NewDesignator=IO_11
+Change Component Designator: OldDesignator=IO12 NewDesignator=IO_12
+Change Component Designator: OldDesignator=IO13 NewDesignator=IO_13
+Change Component Designator: OldDesignator=IO14 NewDesignator=IO_14
+Change Component Designator: OldDesignator=IO15 NewDesignator=IO_15
+Change Component Designator: OldDesignator=IO16 NewDesignator=IO_16
+Change Net Name : Old Net Name=NetIO1_1 New Net Name=NetIO_1_1
+Change Net Name : Old Net Name=NetIO2_1 New Net Name=NetIO_2_1
+Change Net Name : Old Net Name=NetIO3_1 New Net Name=NetIO_3_1
+Change Net Name : Old Net Name=NetIO4_1 New Net Name=NetIO_4_1
+Change Net Name : Old Net Name=NetIO5_1 New Net Name=NetIO_5_1
+Change Net Name : Old Net Name=NetIO6_1 New Net Name=NetIO_6_1
+Change Net Name : Old Net Name=NetIO7_1 New Net Name=NetIO_7_1
+Change Net Name : Old Net Name=NetIO8_1 New Net Name=NetIO_8_1
+Change Net Name : Old Net Name=NetIO9_1 New Net Name=NetIO_9_1
+Change Net Name : Old Net Name=NetIO10_1 New Net Name=NetIO_10_1
+Change Net Name : Old Net Name=NetIO11_1 New Net Name=NetIO_11_1
+Change Net Name : Old Net Name=NetIO12_1 New Net Name=NetIO_12_1
+Change Net Name : Old Net Name=NetIO13_1 New Net Name=NetIO_13_1
+Change Net Name : Old Net Name=NetIO14_1 New Net Name=NetIO_14_1
+Change Net Name : Old Net Name=NetIO15_1 New Net Name=NetIO_15_1
+Change Net Name : Old Net Name=NetIO16_1 New Net Name=NetIO_16_1
+Added Member To Class: ClassName=Shift Registers Member=Component IO_9 G
+Added Member To Class: ClassName=Shift Registers Member=Component IO_11 G
+Added Member To Class: ClassName=Shift Registers Member=Component IO_13 G
+Added Member To Class: ClassName=Shift Registers Member=Component IO_15 G

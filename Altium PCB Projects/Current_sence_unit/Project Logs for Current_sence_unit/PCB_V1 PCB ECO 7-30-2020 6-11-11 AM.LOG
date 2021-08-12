@@ -1,0 +1,21 @@
+Added Component: Designator=J?(JST-S3B-XH-A(LF)(SN)_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current Rating"; Value = "3.00 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.5 mm, 1 x 3 Position, Height 6.1 mm, Tail Length 3.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C157928"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Net: Name=NetJ?_3

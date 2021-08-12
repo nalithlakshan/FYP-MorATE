@@ -1,0 +1,10 @@
+Change Component Description : Designator=J1 Old Description=2.54mm (.100") Pitch C-Grid III? Header, Single Row, Vertical, 1 Circuits, Gold (Au) Plating New Description=2.54mm (.100") Pitch C-Grid III? Header, Single Row, Vertical, 1 Circuits, Gold (Au) Plating
+Change Component Description : Designator=J2 Old Description=2.54mm (.100") Pitch C-Grid III? Header, Single Row, Vertical, 1 Circuits, Gold (Au) Plating New Description=2.54mm (.100") Pitch C-Grid III? Header, Single Row, Vertical, 1 Circuits, Gold (Au) Plating
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J1 header 2x1
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J3 DB126V-5.0-2P-GN
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J5 JST S6B-XH-A
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J7 DB126V-5.0-2P-GN
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J8 CN-1P-M-R3
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component R29 42k
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component R31 100
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component R33 42k

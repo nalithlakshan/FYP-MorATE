@@ -1,0 +1,73 @@
+Added Component: Designator=Q4(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3904LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C81464"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R53(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R54(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R55(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=T7(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T8(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=+3.3V Pin=R52-1
+Added Pin To Net: NetName=IO-3-4-off Pin=R53-1
+Added Pin To Net: NetName=IO-3-4-on Pin=R54-2
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=IO-3-4-out Pin=T7-2
+Added Pin To Net: NetName=+3.3V Pin=T7-3
+Added Pin To Net: NetName=IO-3-4-out Pin=T8-2
+Added Pin To Net: NetName=GND Pin=T8-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R54-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R52-2
+Added Pin To Net: NetName=NetQ4_2 Pin=T7-1
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR53_2 Pin=R55-2
+Added Pin To Net: NetName=NetR53_2 Pin=T8-1
+Added Net: Name=NetR53_2
+Added Member To Class: ClassName=Level Translateor switches Member=Component Q4 MMBT3904LT1G
+Added Member To Class: ClassName=Level Translateor switches Member=Component R52 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component R53 220
+Added Member To Class: ClassName=Level Translateor switches Member=Component R54 470
+Added Member To Class: ClassName=Level Translateor switches Member=Component R55 4.7K
+Added Member To Class: ClassName=Level Translateor switches Member=Component T7 AO3401A
+Added Member To Class: ClassName=Level Translateor switches Member=Component T8 SI2302

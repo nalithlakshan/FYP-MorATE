@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=C32_CL1 NewDesignator=C32_L1
+Change Component Designator: OldDesignator=C32_CL2 NewDesignator=C32_L2
+Change Component Designator: OldDesignator=C32_CL3 NewDesignator=C32_L3
+Change Component Designator: OldDesignator=C33_CL1 NewDesignator=C33_L1
+Change Component Designator: OldDesignator=C33_CL2 NewDesignator=C33_L2
+Change Component Designator: OldDesignator=C33_CL3 NewDesignator=C33_L3
+Change Component Designator: OldDesignator=C34_CL1 NewDesignator=C34_L1
+Change Component Designator: OldDesignator=C34_CL2 NewDesignator=C34_L2
+Change Component Designator: OldDesignator=C34_CL3 NewDesignator=C34_L3
+Change Component Designator: OldDesignator=IC3_CL1 NewDesignator=IC3_L1
+Change Component Designator: OldDesignator=IC3_CL2 NewDesignator=IC3_L2
+Change Component Designator: OldDesignator=IC3_CL3 NewDesignator=IC3_L3
+Change Component Designator: OldDesignator=Q3_CL1 NewDesignator=Q3_L1
+Change Component Designator: OldDesignator=Q3_CL2 NewDesignator=Q3_L2
+Change Component Designator: OldDesignator=Q3_CL3 NewDesignator=Q3_L3
+Change Component Designator: OldDesignator=Q4_CL1 NewDesignator=Q4_L1
+Change Component Designator: OldDesignator=Q4_CL2 NewDesignator=Q4_L2
+Change Component Designator: OldDesignator=Q4_CL3 NewDesignator=Q4_L3
+Change Component Designator: OldDesignator=Q5_CL1 NewDesignator=Q5_L1
+Change Component Designator: OldDesignator=Q5_CL2 NewDesignator=Q5_L2
+Change Component Designator: OldDesignator=Q5_CL3 NewDesignator=Q5_L3
+Change Component Designator: OldDesignator=R36_CL1 NewDesignator=R36_L1
+Change Component Designator: OldDesignator=R36_CL2 NewDesignator=R36_L2
+Change Component Designator: OldDesignator=R36_CL3 NewDesignator=R36_L3
+Change Component Designator: OldDesignator=R37_CL1 NewDesignator=R37_L1
+Change Component Designator: OldDesignator=R37_CL2 NewDesignator=R37_L2
+Change Component Designator: OldDesignator=R37_CL3 NewDesignator=R37_L3
+Change Component Designator: OldDesignator=R38_CL1 NewDesignator=R38_L1
+Change Component Designator: OldDesignator=R38_CL2 NewDesignator=R38_L2
+Change Component Designator: OldDesignator=R38_CL3 NewDesignator=R38_L3
+Change Component Designator: OldDesignator=R39_CL1 NewDesignator=R39_L1
+Change Component Designator: OldDesignator=R39_CL2 NewDesignator=R39_L2
+Change Component Designator: OldDesignator=R39_CL3 NewDesignator=R39_L3
+Change Net Name : Old Net Name=NetC33_CL1_2 New Net Name=NetC33_L1_2
+Change Net Name : Old Net Name=NetC34_CL1_2 New Net Name=NetC34_L1_2
+Change Net Name : Old Net Name=NetC34_CL2_2 New Net Name=NetC34_L2_2
+Change Net Name : Old Net Name=NetC34_CL3_2 New Net Name=NetC34_L3_2
+Change Net Name : Old Net Name=NetIC3_CL1_1 New Net Name=NetIC3_L1_1
+Change Net Name : Old Net Name=NetIC3_CL2_1 New Net Name=NetIC3_L2_1
+Change Net Name : Old Net Name=NetIC3_CL3_1 New Net Name=NetIC3_L3_1
+Change Net Name : Old Net Name=NetQ3_CL1_3 New Net Name=NetQ3_L1_3
+Change Net Name : Old Net Name=NetQ4_CL1_1 New Net Name=NetQ4_L1_1
+Change Net Name : Old Net Name=NetQ4_CL1_3 New Net Name=NetQ4_L1_3
+Change Net Name : Old Net Name=NetQ4_CL2_1 New Net Name=NetQ4_L2_1
+Change Net Name : Old Net Name=NetQ4_CL2_3 New Net Name=NetQ4_L2_3
+Change Net Name : Old Net Name=NetQ4_CL3_1 New Net Name=NetQ4_L3_1
+Change Net Name : Old Net Name=NetQ4_CL3_3 New Net Name=NetQ4_L3_3
+Change Net Name : Old Net Name=NetQ5_CL1_1 New Net Name=NetQ5_L1_1
+Change Net Name : Old Net Name=NetQ5_CL2_1 New Net Name=NetQ5_L2_1
+Change Net Name : Old Net Name=NetQ5_CL3_1 New Net Name=NetQ5_L3_1
+Change Class Name : Old Net Name=CL1 New Net Name=L1
+Change Class Name : Old Net Name=CL2 New Net Name=L2
+Change Class Name : Old Net Name=CL3 New Net Name=L3

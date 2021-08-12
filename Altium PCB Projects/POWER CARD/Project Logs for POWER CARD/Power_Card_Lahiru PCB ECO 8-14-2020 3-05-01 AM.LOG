@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=R38_L1 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Footprint: Designator=R38_L2 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Footprint: Designator=R38_L3 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Comment : Designator=R38_L1 Old Comment=51k New Comment=100k
+Change Component Comment : Designator=R38_L2 Old Comment=51k New Comment=100k
+Change Component Comment : Designator=R38_L3 Old Comment=51k New Comment=100k
+Change component parameters: Designator = "R38_L1"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\DWSJHVBB\WECHQBSN\WDSWNKSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "WR06X1003FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C132374"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38_L2"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\WXMJPWFK\TLRTELEY\WDSWNKSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "WR06X1003FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C132374"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R38_L3"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\ICRWGBVK\JCKLKKSK\WDSWNKSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "WR06X1003FTL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C132374"; VariantName = "[No Variations]"

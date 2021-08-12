@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=DIN Pin=DD1_P8-14
+Removed Pin From Net: NetName=NetDD1_P1_9 Pin=DD3-14
+Added Pin To Net: NetName=DIN Pin=DD1_P1-14
+Added Pin To Net: NetName=NetDD1_P1_9 Pin=DD1_P2-14
+Added Pin To Net: NetName=NetDD1_P2_9 Pin=DD1_P2-9
+Added Pin To Net: NetName=NetDD1_P2_9 Pin=DD1_P3-14
+Added Net: Name=NetDD1_P2_9
+Added Pin To Net: NetName=NetDD1_P3_9 Pin=DD1_P3-9
+Added Pin To Net: NetName=NetDD1_P3_9 Pin=DD1_P4-14
+Added Net: Name=NetDD1_P3_9
+Added Pin To Net: NetName=NetDD1_P4_9 Pin=DD1_P4-9
+Added Pin To Net: NetName=NetDD1_P4_9 Pin=DD1_P5-14
+Added Net: Name=NetDD1_P4_9
+Added Pin To Net: NetName=NetDD1_P5_9 Pin=DD1_P5-9
+Added Pin To Net: NetName=NetDD1_P5_9 Pin=DD1_P6-14
+Added Net: Name=NetDD1_P5_9
+Added Pin To Net: NetName=NetDD1_P6_9 Pin=DD1_P6-9
+Added Pin To Net: NetName=NetDD1_P6_9 Pin=DD1_P7-14
+Added Net: Name=NetDD1_P6_9
+Added Pin To Net: NetName=NetDD1_P7_9 Pin=DD1_P7-9
+Added Pin To Net: NetName=NetDD1_P7_9 Pin=DD1_P8-14
+Added Net: Name=NetDD1_P7_9
+Added Pin To Net: NetName=NetDD1_P8_9 Pin=DD1_P8-9
+Added Pin To Net: NetName=NetDD1_P8_9 Pin=DD3-14
+Added Net: Name=NetDD1_P8_9
+Added Member To Class: ClassName=Switch Matrix Member=Component J3 DB126V-5.0-2P-GN
+Added Member To Class: ClassName=Switch Matrix Member=Component J5 DB126V-5.0-2P-GN
+Added Member To Class: ClassName=Switch Matrix Member=Component J8 JST B4PS-VH(LF)(SN)
+Added Member To Class: ClassName=Switch Matrix Member=Component J9 JST B4PS-VH(LF)(SN)
+Added Room: Name=Switch Matrix

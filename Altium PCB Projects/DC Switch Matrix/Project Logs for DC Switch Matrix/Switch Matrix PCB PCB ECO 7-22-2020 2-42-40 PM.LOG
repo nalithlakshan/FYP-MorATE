@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=DC_PIN1 Pin=J9-1
+Removed Pin From Net: NetName=DC_PIN2 Pin=J9-2
+Removed Pin From Net: NetName=DC_PIN3 Pin=J9-3
+Removed Pin From Net: NetName=DC_PIN4 Pin=J9-4
+Removed Pin From Net: NetName=DC_PIN5 Pin=J10-1
+Removed Pin From Net: NetName=DC_PIN6 Pin=J10-2
+Removed Pin From Net: NetName=DC_PIN7 Pin=J10-3
+Removed Pin From Net: NetName=DC_PIN8 Pin=J10-4
+Added Component: Designator=J9(PCB-fv0n1qe7e7tw0owzte2c-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "7.00 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/b4ps-vh%28lf%29%28sn%29-jst-248814"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "85.0 °C (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "3.96 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Height"; Value = "8.50 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Length"; Value = "15.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=J10(PCB-fv0n1qe7e7tw0owzte2c-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "7.00 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1.00 GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead-Free Status"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "B4PS-VH(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart URL"; Value = "https://octopart.com/b4ps-vh%28lf%29%28sn%29-jst-248814"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "85.0 °C (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Pitch"; Value = "3.96 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC Compliance"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Height"; Value = "8.50 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size-Length"; Value = "15.8 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DC_PIN4 Pin=J9-1
+Added Pin To Net: NetName=DC_PIN3 Pin=J9-2
+Added Pin To Net: NetName=DC_PIN2 Pin=J9-3
+Added Pin To Net: NetName=DC_PIN1 Pin=J9-4
+Added Pin To Net: NetName=DC_PIN8 Pin=J10-1
+Added Pin To Net: NetName=DC_PIN7 Pin=J10-2
+Added Pin To Net: NetName=DC_PIN6 Pin=J10-3
+Added Pin To Net: NetName=DC_PIN5 Pin=J10-4

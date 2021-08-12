@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Added Component: Designator=C42(CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAPC1608X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=VDD Pin=C43-2
+Added Member To Class: ClassName=Power_Card Member=Component C42 100nF
+Added Member To Class: ClassName=Power_Card Member=Component C43 100nF
+Added Member To Class: ClassName=Power_Card Member=Component C45 100nF

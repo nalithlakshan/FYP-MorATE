@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MUXEN3 Pin=R15-1
+Removed Pin From Net: NetName=MUXC1 Pin=R16-1
+Removed Pin From Net: NetName=MUXB1 Pin=R17-1
+Removed Pin From Net: NetName=MUXA1 Pin=R18-1
+Removed Pin From Net: NetName=MUXA1 Pin=U7-13
+Removed Pin From Net: NetName=MUXB1 Pin=U7-14
+Removed Pin From Net: NetName=MUXC1 Pin=U7-15
+Removed Pin From Net: NetName=MUXEN3 Pin=U7-16
+Added Pin To Net: NetName=MUXA1 Pin=R15-1
+Added Pin To Net: NetName=MUXB1 Pin=R16-1
+Added Pin To Net: NetName=MUXC1 Pin=R17-1
+Added Pin To Net: NetName=MUXEN3 Pin=R18-1
+Added Pin To Net: NetName=MUXEN3 Pin=U7-13
+Added Pin To Net: NetName=MUXC1 Pin=U7-14
+Added Pin To Net: NetName=MUXB1 Pin=U7-15
+Added Pin To Net: NetName=MUXA1 Pin=U7-16

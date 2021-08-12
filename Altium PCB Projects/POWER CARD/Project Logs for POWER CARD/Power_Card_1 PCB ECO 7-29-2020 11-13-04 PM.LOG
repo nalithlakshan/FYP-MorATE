@@ -1,0 +1,4 @@
+Added Component: Designator=JP?(PCB-sjva3kmaxrqfkswkvsp7-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CustomComponentID"; Value = "75tq5o8j4p0avfd6ylbk"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU Member=Component JP? Jumper Pad

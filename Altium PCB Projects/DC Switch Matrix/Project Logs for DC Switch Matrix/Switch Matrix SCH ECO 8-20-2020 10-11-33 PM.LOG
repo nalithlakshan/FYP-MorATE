@@ -1,0 +1,4 @@
+Removed Parameter Manufacturer Part Number:CD4051BNSR from Part U2
+Added Parameter Manufacture Part Number=CD4051BNSR to Part U2
+Added Parameter Manufacturer=Texas Instruments to Part U2
+Change Component Parameter Library Reference in U2 Old= New=CMP-7a8fb3826b5da548-1

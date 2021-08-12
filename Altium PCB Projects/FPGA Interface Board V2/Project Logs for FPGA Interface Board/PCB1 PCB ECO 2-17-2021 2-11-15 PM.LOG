@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=+12V Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=+12V Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=+12V Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=+12V Pin=R49-1
+Removed Pin From Net: NetName=VSET Pin=R51-1
+Removed Pin From Net: NetName=GND Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=U19-5
+Removed Pin From Net: NetName=+12V Pin=U19-8
+Removed Pin From Net: NetName=GND Pin=U19-9
+Removed Member From Class: ClassName=Logic Voltage Source Member=C33
+Removed Member From Class: ClassName=Logic Voltage Source Member=C34
+Removed Member From Class: ClassName=Logic Voltage Source Member=C35
+Removed Member From Class: ClassName=Logic Voltage Source Member=C36
+Removed Member From Class: ClassName=Logic Voltage Source Member=C37
+Removed Member From Class: ClassName=Logic Voltage Source Member=C38
+Removed Member From Class: ClassName=Logic Voltage Source Member=C39
+Removed Member From Class: ClassName=Logic Voltage Source Member=C40
+Removed Member From Class: ClassName=Logic Voltage Source Member=L1
+Removed Member From Class: ClassName=Logic Voltage Source Member=R49
+Removed Member From Class: ClassName=Logic Voltage Source Member=R50
+Removed Member From Class: ClassName=Logic Voltage Source Member=R51
+Removed Member From Class: ClassName=Logic Voltage Source Member=R52
+Removed Member From Class: ClassName=Logic Voltage Source Member=R53
+Removed Member From Class: ClassName=Logic Voltage Source Member=U19
+Change component parameters: Designator = "CN1"; Footprint = "CONN-TH_B8B-XH-A (LF)(SN)"; UniqueID = "\NAXYKRFY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C157972"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN2"; Footprint = "CONN-TH_B8B-XH-A (LF)(SN)"; UniqueID = "\TJQJMSYG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C157972"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN3"; Footprint = "CONN-TH_B8B-XH-A (LF)(SN)"; UniqueID = "\IQDVDIJL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "B8B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C157972"; VariantName = "[No Variations]"

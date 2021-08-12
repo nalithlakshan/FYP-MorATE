@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VOUT1 Pin=K1-2
+Removed Pin From Net: NetName=FB1 Pin=K1-3
+Added Pin To Net: NetName=FB1 Pin=K1-2
+Added Pin To Net: NetName=VOUT1 Pin=K1-3
+Added Member To Class: ClassName=PS1 Member=Component C38 100nF

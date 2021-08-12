@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=+5V Pin=C41-2
+Removed Pin From Net: NetName=+3.3V Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=GND Pin=U20-1
+Removed Pin From Net: NetName=+3.3V Pin=U20-2
+Removed Pin From Net: NetName=+5V Pin=U20-3
+Removed Pin From Net: NetName=+3.3V Pin=U20-4
+Removed Member From Class: ClassName=Shift Registers Member=C41
+Removed Member From Class: ClassName=Shift Registers Member=C42
+Removed Member From Class: ClassName=Shift Registers Member=U20

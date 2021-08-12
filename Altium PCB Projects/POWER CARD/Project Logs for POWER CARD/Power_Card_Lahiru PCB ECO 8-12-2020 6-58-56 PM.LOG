@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC33_L1_2 Pin=TP1-1
+Removed Member From Class: ClassName=PS1 Member=TP1
+Change Component Footprint: Designator=TP2 Old Footprint=PCB-76sf9akqozhr8i1vmz2c-1 New Footprint=PCB-76sf9akqozhr8i1vmz2c-1
+Change Component Footprint: Designator=TP3 Old Footprint=PCB-76sf9akqozhr8i1vmz2c-1 New Footprint=PCB-76sf9akqozhr8i1vmz2c-1
+Change Component Footprint: Designator=TP4 Old Footprint=PCB-76sf9akqozhr8i1vmz2c-1 New Footprint=PCB-76sf9akqozhr8i1vmz2c-1
+Change Component Footprint: Designator=TP5 Old Footprint=PCB-76sf9akqozhr8i1vmz2c-1 New Footprint=PCB-76sf9akqozhr8i1vmz2c-1
+Change Component Footprint: Designator=TP6 Old Footprint=PCB-76sf9akqozhr8i1vmz2c-1 New Footprint=PCB-76sf9akqozhr8i1vmz2c-1
+Change Component Footprint: Designator=TP7 Old Footprint=PCB-76sf9akqozhr8i1vmz2c-1 New Footprint=PCB-76sf9akqozhr8i1vmz2c-1

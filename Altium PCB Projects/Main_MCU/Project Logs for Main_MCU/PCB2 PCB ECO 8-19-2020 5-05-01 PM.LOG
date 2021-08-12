@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=F8 Pin=CN15-2
+Removed Pin From Net: NetName=F9 Pin=CN15-3
+Added Pin To Net: NetName=F9 Pin=CN15-2
+Added Pin To Net: NetName=F8 Pin=CN15-3

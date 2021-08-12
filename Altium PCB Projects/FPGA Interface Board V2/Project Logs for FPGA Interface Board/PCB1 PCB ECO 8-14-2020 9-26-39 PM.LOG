@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=R49-1
+Removed Pin From Net: NetName=DUT_VH Pin=R51-2
+Removed Pin From Net: NetName=DUT_VH Pin=R52-2
+Removed Pin From Net: NetName=DUT_VH Pin=R53-2
+Removed Pin From Net: NetName=DUT_VH Pin=R54-1
+Removed Pin From Net: NetName=DUT_VH Pin=R55-1
+Removed Pin From Net: NetName=DUT_VH Pin=R56-2
+Removed Pin From Net: NetName=GND Pin=R57-1
+Removed Pin From Net: NetName=GND Pin=R58-1
+Removed Pin From Net: NetName=GND Pin=R59-1
+Removed Pin From Net: NetName=GND Pin=R60-1
+Removed Pin From Net: NetName=GND Pin=R61-1
+Removed Pin From Net: NetName=GND Pin=R62-1
+Removed Pin From Net: NetName=VFB Pin=U20-3
+Removed Pin From Net: NetName=GND Pin=U20-6
+Removed Pin From Net: NetName=GND Pin=U20-7
+Removed Pin From Net: NetName=GND Pin=U20-8
+Removed Pin From Net: NetName=C Pin=U20-9
+Removed Pin From Net: NetName=B Pin=U20-10
+Removed Pin From Net: NetName=A Pin=U20-11
+Removed Pin From Net: NetName=+12V Pin=U20-16
+Removed Member From Class: ClassName=Logic Voltage Source Member=R51
+Removed Member From Class: ClassName=Logic Voltage Source Member=R52
+Removed Member From Class: ClassName=Logic Voltage Source Member=R53
+Removed Member From Class: ClassName=Logic Voltage Source Member=R54
+Removed Member From Class: ClassName=Logic Voltage Source Member=R55
+Removed Member From Class: ClassName=Logic Voltage Source Member=R56
+Removed Member From Class: ClassName=Logic Voltage Source Member=R57
+Removed Member From Class: ClassName=Logic Voltage Source Member=R58
+Removed Member From Class: ClassName=Logic Voltage Source Member=R59
+Removed Member From Class: ClassName=Logic Voltage Source Member=R60
+Removed Member From Class: ClassName=Logic Voltage Source Member=R61
+Removed Member From Class: ClassName=Logic Voltage Source Member=R62
+Removed Member From Class: ClassName=Logic Voltage Source Member=U20
+Added Pin To Net: NetName=+12V Pin=R49-1
+Change Net Name : Old Net Name=EN New Net Name=NetR49_2
+Added Net: Name=VSET

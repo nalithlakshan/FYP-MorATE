@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CANH Pin=J3-1
+Removed Pin From Net: NetName=CANL Pin=J3-2
+Removed Pin From Net: NetName=SCL1 Pin=J3-3
+Removed Pin From Net: NetName=SDA1 Pin=J3-4
+Removed Pin From Net: NetName=AGND Pin=J3-5
+Added Component: Designator=J3(CONN-TH_S4B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C157925"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "S4B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CANH Pin=J3-1
+Added Pin To Net: NetName=CANL Pin=J3-2
+Added Pin To Net: NetName=SCL1 Pin=J3-3
+Added Pin To Net: NetName=SDA1 Pin=J3-4

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SDA Pin=U3-2
+Added Pin To Net: NetName=SCL Pin=U3-3
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J2 header 2x1

@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=C34_L1 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C34_L2 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Footprint: Designator=C34_L3 Old Footprint=CAPC1608X09N New Footprint=CAPC1608X09N
+Change Component Comment : Designator=C34_L1 Old Comment=100nF New Comment=100pF
+Change Component Comment : Designator=C34_L2 Old Comment=100nF New Comment=100pF
+Change Component Comment : Designator=C34_L3 Old Comment=100nF New Comment=100pF
+Change component parameters: Designator = "C34_L1"; Footprint = "CAPC1608X09N"; UniqueID = "\DWSJHVBB\WECHQBSN\RBFRCQHG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603N101J500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C335544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34_L2"; Footprint = "CAPC1608X09N"; UniqueID = "\WXMJPWFK\TLRTELEY\RBFRCQHG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603N101J500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C335544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34_L3"; Footprint = "CAPC1608X09N"; UniqueID = "\ICRWGBVK\JCKLKKSK\RBFRCQHG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603N101J500CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C335544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Rated"; Value = "50V"; VariantName = "[No Variations]"

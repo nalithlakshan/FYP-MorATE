@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R12 Old Footprint=gen0603-2 New Footprint=gen0603-2
+Change Component Comment : Designator=R12 Old Comment=10k New Comment=100
+Change component parameters: Designator = "R12"; Footprint = "gen0603-2"; UniqueID = "\SGHMXQAL\SAEOWXLB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1000T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C22775"; VariantName = "[No Variations]"

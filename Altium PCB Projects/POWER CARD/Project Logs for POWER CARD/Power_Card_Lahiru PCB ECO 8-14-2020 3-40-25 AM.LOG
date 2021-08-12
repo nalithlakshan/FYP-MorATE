@@ -1,0 +1,44 @@
+Change Component Footprint: Designator=R8 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Footprint: Designator=R9 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Footprint: Designator=R10 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Footprint: Designator=R11 Old Footprint=PCB-3ELF45QDQIZOABMCZRXC-1 New Footprint=PCB-3elf45qdqizoabmczrxc-1
+Change Component Comment : Designator=R8 Old Comment=51k New Comment=47k
+Change Component Comment : Designator=R9 Old Comment=51k New Comment=47k
+Change Component Comment : Designator=R10 Old Comment=51k New Comment=47k
+Change Component Comment : Designator=R11 Old Comment=51k New Comment=47k
+Change component parameters: Designator = "R8"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\SGHMXQAL\CNHJTWOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\SGHMXQAL\ZBNSASNS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\SGHMXQAL\VBUHTWPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11"; Footprint = "PCB-3elf45qdqizoabmczrxc-1"; UniqueID = "\SGHMXQAL\ZKOATLZV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAF4702T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C25819"; VariantName = "[No Variations]"

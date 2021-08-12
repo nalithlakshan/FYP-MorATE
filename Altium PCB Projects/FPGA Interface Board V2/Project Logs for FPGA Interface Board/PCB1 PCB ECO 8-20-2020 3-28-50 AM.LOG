@@ -1,0 +1,24 @@
+Added Component: Designator=R4(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22775"; VariantName = "[No Variations]"
+Added Component: Designator=R5(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0603WAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22775"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=R4-1
+Added Pin To Net: NetName=CLK1_IN1 Pin=R4-2
+Added Pin To Net: NetName=CLK1_IN1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Member To Class: ClassName=FPGA Member=Component R4 100
+Added Member To Class: ClassName=FPGA Member=Component R5 100

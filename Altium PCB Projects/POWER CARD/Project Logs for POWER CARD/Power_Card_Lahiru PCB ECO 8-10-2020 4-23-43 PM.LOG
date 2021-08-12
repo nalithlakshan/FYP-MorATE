@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DAC_OUT_1 Pin=J13-1
+Removed Pin From Net: NetName=DAC_OUT_2 Pin=J13-2
+Added Pin To Net: NetName=DAC_OUT_2 Pin=J13-1
+Added Pin To Net: NetName=DAC_OUT_1 Pin=J13-2

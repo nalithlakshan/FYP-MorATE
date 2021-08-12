@@ -1,0 +1,48 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Nalith\Google Drive\Altium Projects\Current_sence_unit\PCB_V1.PcbDoc
+Date     : 8/21/2020
+Time     : 1:28:41 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=1000mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (5.945mil < 7.874mil) Between Board Edge And Track (2717.354mil,-3926.063mil)(2717.354mil,-3146.063mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.945mil < 7.874mil) Between Board Edge And Track (2722.354mil,-3931.063mil)(3277.354mil,-3931.063mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.945mil < 7.874mil) Between Board Edge And Track (3277.354mil,-3931.063mil)(3277.354mil,-3146.063mil) on Top Overlay 
+Rule Violations :3
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 3
+Waived Violations : 0
+Time Elapsed        : 00:00:02

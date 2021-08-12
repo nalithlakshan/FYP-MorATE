@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LDAC_1 Pin=U1-12
+Removed Pin From Net: NetName=ILIM_FB_2 Pin=U1-13
+Added Pin To Net: NetName=ILIM_FB_2 Pin=U1-12
+Added Pin To Net: NetName=LDAC_1 Pin=U1-13

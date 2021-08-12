@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VS1 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=VS3 Pin=J2-1
+Removed Pin From Net: NetName=VS2 Pin=J2-2
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Added Component: Designator=J1(PCB-kiok1jlp9o9fcwf1wwvf-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PCB-kiok1jlp9o9fcwf1wwvf-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "DB126V-5.0-2P-GN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DIBO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin pitch"; Value = "5.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C395849"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VS1 Pin=J1-2
+Added Pin To Net: NetName=VS2 Pin=J2-1
+Added Pin To Net: NetName=VS3 Pin=J2-2
+Added Member To Class: ClassName=Switch Matrix Member=Component J2 DB126V-5.0-2P-GN

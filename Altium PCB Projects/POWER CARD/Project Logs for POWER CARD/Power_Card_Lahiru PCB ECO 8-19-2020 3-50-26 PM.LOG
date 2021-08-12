@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CANH Pin=J3-1
+Removed Pin From Net: NetName=CANL Pin=J3-2
+Removed Pin From Net: NetName=SCL1 Pin=J3-3
+Removed Pin From Net: NetName=SDA1 Pin=J3-4

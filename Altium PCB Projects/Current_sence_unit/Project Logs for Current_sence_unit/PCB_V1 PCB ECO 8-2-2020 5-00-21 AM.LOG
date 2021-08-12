@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetR7_2 Pin=U2-1
+Added Pin To Net: NetName=5ISO- Pin=U2-1
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component U2 TI-ADS1015_1115-10

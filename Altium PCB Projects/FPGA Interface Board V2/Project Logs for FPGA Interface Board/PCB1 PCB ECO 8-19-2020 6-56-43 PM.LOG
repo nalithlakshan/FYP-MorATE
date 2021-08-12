@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPIO_02 Pin=U4-2
+Removed Pin From Net: NetName=GPIO_03 Pin=U4-3
+Removed Pin From Net: NetName=GPIO_04 Pin=U7-2
+Removed Pin From Net: NetName=GPIO_05 Pin=U7-3
+Added Pin To Net: NetName=GPIO_04 Pin=U4-2
+Added Pin To Net: NetName=GPIO_02 Pin=U4-3
+Added Pin To Net: NetName=GPIO_01 Pin=U7-2
+Added Pin To Net: NetName=GPIO_03 Pin=U7-3
+Added Member To Class: ClassName=FPGA Member=Component CN1 B8B-XH-A (LF)(SN)
+Added Member To Class: ClassName=FPGA Member=Component CN2 B8B-XH-A (LF)(SN)

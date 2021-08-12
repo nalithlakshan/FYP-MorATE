@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C45-1
+Removed Pin From Net: NetName=+3.3V Pin=C45-2
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=GND Pin=LED3-2
+Removed Pin From Net: NetName=GND Pin=LED4-2
+Removed Pin From Net: NetName=+12V Pin=R79-2
+Removed Pin From Net: NetName=+12V Pin=R80-2
+Removed Pin From Net: NetName=+12V Pin=R81-2
+Removed Pin From Net: NetName=GND Pin=U25-9
+Removed Pin From Net: NetName=GND Pin=U26-8
+Removed Pin From Net: NetName=DOUT Pin=U26-9
+Removed Pin From Net: NetName=RST Pin=U26-10
+Removed Pin From Net: NetName=SHCP Pin=U26-11
+Removed Pin From Net: NetName=STCP Pin=U26-12
+Removed Pin From Net: NetName=OE Pin=U26-13
+Removed Pin From Net: NetName=GND Pin=U26-14
+Removed Pin From Net: NetName=+3.3V Pin=U26-16
+Removed Pin From Net: NetName=GND Pin=U27-8
+Removed Pin From Net: NetName=+12V Pin=U27-9
+Removed Member From Class: ClassName=Shift Registers Member=C45
+Removed Member From Class: ClassName=Shift Registers Member=LED1
+Removed Member From Class: ClassName=Shift Registers Member=LED2
+Removed Member From Class: ClassName=Shift Registers Member=LED3
+Removed Member From Class: ClassName=Shift Registers Member=LED4
+Removed Member From Class: ClassName=Shift Registers Member=R79
+Removed Member From Class: ClassName=Shift Registers Member=R80
+Removed Member From Class: ClassName=Shift Registers Member=R81
+Removed Member From Class: ClassName=Shift Registers Member=R82
+Removed Member From Class: ClassName=Shift Registers Member=R83
+Removed Member From Class: ClassName=Shift Registers Member=R84
+Removed Member From Class: ClassName=Shift Registers Member=R85
+Removed Member From Class: ClassName=Shift Registers Member=U26
+Removed Member From Class: ClassName=Shift Registers Member=U27
+Added Pin To Net: NetName=DOUT Pin=U25-9

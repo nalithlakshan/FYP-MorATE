@@ -1,0 +1,39 @@
+Added Component: Designator=R86(PCB-3elf45qdqizoabmczrxc-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "WR06X513 JTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "51k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C384211"; VariantName = "[No Variations]"
+Added Component: Designator=R87(PCB-3elf45qdqizoabmczrxc-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "0603WAJ0243T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "24k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C25588"; VariantName = "[No Variations]"
+Added Component: Designator=R88(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ".Checked SCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolarance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C98220"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VFB Pin=R86-1
+Added Pin To Net: NetName=DUT_VH Pin=R86-2
+Added Pin To Net: NetName=VFB Pin=R87-1
+Added Pin To Net: NetName=VSET Pin=R87-2
+Added Pin To Net: NetName=GND Pin=R88-1
+Added Pin To Net: NetName=VFB Pin=R88-2
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R86 51k
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R87 24k
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R88 10k

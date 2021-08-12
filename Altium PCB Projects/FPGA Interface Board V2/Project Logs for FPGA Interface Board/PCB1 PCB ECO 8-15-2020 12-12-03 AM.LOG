@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=VFB Pin=R86-1
+Removed Pin From Net: NetName=DUT_VH Pin=R86-2
+Removed Pin From Net: NetName=GND Pin=R88-1
+Removed Pin From Net: NetName=VFB Pin=R88-2
+Removed Member From Class: ClassName=Logic Voltage Source Member=R86
+Removed Member From Class: ClassName=Logic Voltage Source Member=R88
+Added Component: Designator=R51(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Walsin Tech Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "WR06X513 JTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C384211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "WR06X513 JTL"; VariantName = "[No Variations]"
+Added Component: Designator=R52(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C98220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VFB Pin=R51-1
+Added Pin To Net: NetName=DUT_VH Pin=R51-2
+Added Pin To Net: NetName=GND Pin=R52-1
+Added Pin To Net: NetName=VFB Pin=R52-2
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R51 51K
+Added Member To Class: ClassName=Logic Voltage Source Member=Component R52 10K

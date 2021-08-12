@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CLK0_IN1 Pin=RF2-5
+Added Pin To Net: NetName=CLK1_IN1 Pin=RF2-5

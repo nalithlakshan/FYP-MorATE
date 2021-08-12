@@ -1,0 +1,32 @@
+Added Component: Designator=CN1(CONN-TH_S4B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C157925"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "S4B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(CONN-TH_S4B-XH-A (LF)(SN))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "JST Sales America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C157925"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "S4B-XH-A (LF)(SN)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN2-4
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_2 Pin=CN2-3
+Added Net: Name=NetCN1_2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=CN2-2
+Added Net: Name=NetCN1_3
+Added Pin To Net: NetName=NetCN1_4 Pin=CN1-4
+Added Pin To Net: NetName=NetCN1_4 Pin=CN2-1
+Added Net: Name=NetCN1_4
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component CN1 S4B-XH-A (LF)(SN)
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component CN2 S4B-XH-A (LF)(SN)

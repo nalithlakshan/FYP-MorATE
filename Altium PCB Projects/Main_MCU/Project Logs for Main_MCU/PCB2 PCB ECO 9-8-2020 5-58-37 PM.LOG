@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CLK1 Pin=U8-9
+Added Net: Name=CLK1
+Added Pin To Net: NetName=CLK2 Pin=U8-6
+Added Net: Name=CLK2

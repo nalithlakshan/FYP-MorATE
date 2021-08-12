@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DAC_OUT1 Pin=CN14-8
+Removed Pin From Net: NetName=DAC_OUT4 Pin=CN18-8
+Removed Pin From Net: NetName=DAC_OUT3 Pin=CN19-8
+Removed Pin From Net: NetName=DAC_OUT2 Pin=CN20-8
+Added Pin To Net: NetName=DAC_OUT4 Pin=CN14-8
+Added Pin To Net: NetName=DAC_OUT1 Pin=CN18-8
+Added Pin To Net: NetName=DAC_OUT2 Pin=CN19-8
+Added Pin To Net: NetName=DAC_OUT3 Pin=CN20-8

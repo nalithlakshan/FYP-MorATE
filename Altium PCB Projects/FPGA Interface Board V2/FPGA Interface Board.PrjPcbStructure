@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=FPGA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=FPGA.SchDoc|FileName=Level Translateor switches.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=FPGA.SchDoc|FileName=Level Translators.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=FPGA.SchDoc|FileName=Logic Voltage Source.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=FPGA.SchDoc|FileName=Shift Registers.SchDoc|SheetNumber= 

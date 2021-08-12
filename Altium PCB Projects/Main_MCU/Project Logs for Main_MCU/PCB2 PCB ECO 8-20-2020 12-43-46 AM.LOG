@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=RF1 Old Footprint=ANT-TH_KH-SMA-K513-G New Footprint=BWSMA-KE-Z001
+Change Component Footprint: Designator=RF2 Old Footprint=ANT-TH_KH-SMA-K513-G New Footprint=BWSMA-KE-Z001
+Change Component Footprint: Designator=RF3 Old Footprint=ANT-TH_KH-SMA-K513-G New Footprint=BWSMA-KE-Z001
+Change Component Footprint: Designator=RF4 Old Footprint=ANT-TH_KH-SMA-K513-G New Footprint=BWSMA-KE-Z001
+Change Component Comment : Designator=RF1 Old Comment=KH-SMA-K513-G New Comment=SMA 50Ohm Coaxial Connectors
+Change Component Comment : Designator=RF2 Old Comment=KH-SMA-K513-G New Comment=SMA 50Ohm Coaxial Connectors
+Change Component Comment : Designator=RF3 Old Comment=KH-SMA-K513-G New Comment=SMA 50Ohm Coaxial Connectors
+Change Component Comment : Designator=RF4 Old Comment=KH-SMA-K513-G New Comment=SMA 50Ohm Coaxial Connectors
+Change component parameters: Designator = "RF1"; Footprint = "BWSMA-KE-Z001"; UniqueID = "\IJRSAXIO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactur Part Number"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C496549"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RF2"; Footprint = "BWSMA-KE-Z001"; UniqueID = "\RHJLRXTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactur Part Number"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C496549"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RF3"; Footprint = "BWSMA-KE-Z001"; UniqueID = "\CKPACXHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactur Part Number"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C496549"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RF4"; Footprint = "BWSMA-KE-Z001"; UniqueID = "\IAUCSSPO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BAT WIRELESS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufactur Part Number"; Value = "BWSMA-KE-Z001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "C496549"; VariantName = "[No Variations]"

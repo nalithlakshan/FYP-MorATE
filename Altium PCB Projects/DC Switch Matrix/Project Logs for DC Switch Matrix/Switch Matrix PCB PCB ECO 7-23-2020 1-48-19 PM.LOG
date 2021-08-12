@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=A+ Pin=J3-1
+Removed Pin From Net: NetName=A- Pin=J3-2
+Removed Pin From Net: NetName=V Pin=J4-1
+Removed Pin From Net: NetName=+20V Pin=J4-2
+Added Component: Designator=J3(CONN-TH_3P-P5.00_DB126V-5.0-3P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A- Pin=J3-1
+Added Pin To Net: NetName=A+ Pin=J3-2
+Added Pin To Net: NetName=V Pin=J3-3
+Added Member To Class: ClassName=Switch Matrix Member=Component J3 DB126V-5.0-3P-GN
+Added Room: Name=P1
+Added Room: Name=P2
+Added Room: Name=P3
+Added Room: Name=P4
+Added Room: Name=P5
+Added Room: Name=P6
+Added Room: Name=P7
+Added Room: Name=P8

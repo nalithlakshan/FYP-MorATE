@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetDD1_7 Pin=U12-1
+Removed Pin From Net: NetName=NetDD1_6 Pin=U12-2
+Removed Pin From Net: NetName=NetDD1_5 Pin=U12-3
+Removed Pin From Net: NetName=NetDD1_4 Pin=U12-4
+Removed Pin From Net: NetName=NetDD1_3 Pin=U12-5
+Removed Pin From Net: NetName=NetDD1_2 Pin=U12-6
+Removed Pin From Net: NetName=NetDD1_1 Pin=U12-7
+Removed Pin From Net: NetName=NetDD1_15 Pin=U12-8
+Added Pin To Net: NetName=NetDD1_15 Pin=U12-1
+Added Pin To Net: NetName=NetDD1_1 Pin=U12-2
+Added Pin To Net: NetName=NetDD1_2 Pin=U12-3
+Added Pin To Net: NetName=NetDD1_3 Pin=U12-4
+Added Pin To Net: NetName=NetDD1_4 Pin=U12-5
+Added Pin To Net: NetName=NetDD1_5 Pin=U12-6
+Added Pin To Net: NetName=NetDD1_6 Pin=U12-7
+Added Pin To Net: NetName=NetDD1_7 Pin=U12-8
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J? CN-1P-M-R3

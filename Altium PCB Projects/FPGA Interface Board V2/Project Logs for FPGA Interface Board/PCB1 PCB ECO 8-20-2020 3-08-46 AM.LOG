@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GPIO_115 Pin=CN1-8
+Added Pin To Net: NetName=VSET Pin=CN1-8

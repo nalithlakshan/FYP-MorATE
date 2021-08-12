@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=IN8 Pin=DD1-7
+Removed Pin From Net: NetName=IN8 Pin=U12-8
+Added Component: Designator=D11(0603LED_GEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "ORH-G36G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C205443"; VariantName = "[No Variations]"
+Added Component: Designator=R42(gen0603-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C99782"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN8 Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D11-2
+Added Pin To Net: NetName=\ Pin=DD1-7
+Added Pin To Net: NetName=\ Pin=R42-1
+Added Pin To Net: NetName=IN8 Pin=R42-2
+Added Pin To Net: NetName=\ Pin=U12-8
+Change Net Name : Old Net Name=IN8 New Net Name=NetD11_1
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component D11 Green LED 0603
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component R42 4.7k

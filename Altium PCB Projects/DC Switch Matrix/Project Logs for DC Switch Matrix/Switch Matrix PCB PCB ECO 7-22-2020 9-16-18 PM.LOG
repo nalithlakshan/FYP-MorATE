@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=A- Pin=J3-1
+Removed Pin From Net: NetName=A+ Pin=J3-2
+Added Pin To Net: NetName=A+ Pin=J3-1
+Added Pin To Net: NetName=A- Pin=J3-2
+Added Member To Class: ClassName=Switch Matrix Member=Component J1 DB126V-5.0-2P-GN
+Added Member To Class: ClassName=Switch Matrix Member=Component J2 DB126V-5.0-2P-GN
+Added Member To Class: ClassName=Switch Matrix Member=Component J5 JST S6B-XH-A
+Added Member To Class: ClassName=Switch Matrix Member=Component J6 CN-1P-M-R3

@@ -1,0 +1,193 @@
+Removed Pin From Net: NetName=+3.3V Pin=C1-2
+Removed Pin From Net: NetName=+3.3V Pin=C3-2
+Removed Pin From Net: NetName=+3.3V Pin=C5-2
+Removed Pin From Net: NetName=+3.3V Pin=C13-2
+Removed Pin From Net: NetName=+3.3V Pin=C15-2
+Removed Pin From Net: NetName=+3.3V Pin=C17-2
+Removed Pin From Net: NetName=+3.3V Pin=C25-2
+Removed Pin From Net: NetName=+3.3V Pin=C27-2
+Removed Pin From Net: NetName=NetQ7_1 Pin=Q7-1
+Removed Pin From Net: NetName=NetQ7_2 Pin=Q7-2
+Removed Pin From Net: NetName=GND Pin=Q7-3
+Removed Pin From Net: NetName=NetQ8_1 Pin=Q8-1
+Removed Pin From Net: NetName=NetQ8_2 Pin=Q8-2
+Removed Pin From Net: NetName=GND Pin=Q8-3
+Removed Pin From Net: NetName=+3.3V Pin=R64-1
+Removed Pin From Net: NetName=NetQ7_2 Pin=R64-2
+Removed Pin From Net: NetName=IO-13-14-off Pin=R65-1
+Removed Pin From Net: NetName=NetR65_2 Pin=R65-2
+Removed Pin From Net: NetName=NetQ7_1 Pin=R66-1
+Removed Pin From Net: NetName=IO-13-14-on Pin=R66-2
+Removed Pin From Net: NetName=GND Pin=R67-1
+Removed Pin From Net: NetName=NetR65_2 Pin=R67-2
+Removed Pin From Net: NetName=+3.3V Pin=R68-1
+Removed Pin From Net: NetName=NetQ8_2 Pin=R68-2
+Removed Pin From Net: NetName=IO-15-16-off Pin=R69-1
+Removed Pin From Net: NetName=NetR69_2 Pin=R69-2
+Removed Pin From Net: NetName=NetQ8_1 Pin=R70-1
+Removed Pin From Net: NetName=IO-15-16-on Pin=R70-2
+Removed Pin From Net: NetName=GND Pin=R71-1
+Removed Pin From Net: NetName=NetR69_2 Pin=R71-2
+Removed Pin From Net: NetName=NetQ7_2 Pin=T13-1
+Removed Pin From Net: NetName=IO-13-14-out Pin=T13-2
+Removed Pin From Net: NetName=+3.3V Pin=T13-3
+Removed Pin From Net: NetName=NetR65_2 Pin=T14-1
+Removed Pin From Net: NetName=IO-13-14-out Pin=T14-2
+Removed Pin From Net: NetName=GND Pin=T14-3
+Removed Pin From Net: NetName=NetQ8_2 Pin=T15-1
+Removed Pin From Net: NetName=IO-15-16-out Pin=T15-2
+Removed Pin From Net: NetName=+3.3V Pin=T15-3
+Removed Pin From Net: NetName=NetR69_2 Pin=T16-1
+Removed Pin From Net: NetName=IO-15-16-out Pin=T16-2
+Removed Pin From Net: NetName=GND Pin=T16-3
+Removed Pin From Net: NetName=+3.3V Pin=U3-1
+Removed Pin From Net: NetName=+3.3V Pin=U4-1
+Removed Pin From Net: NetName=+3.3V Pin=U5-1
+Removed Pin From Net: NetName=+3.3V Pin=U9-1
+Removed Pin From Net: NetName=+3.3V Pin=U10-1
+Removed Pin From Net: NetName=+3.3V Pin=U11-1
+Removed Pin From Net: NetName=+3.3V Pin=U15-1
+Removed Pin From Net: NetName=+3.3V Pin=U16-1
+Added Component: Designator=Q7(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3904LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C81464"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(SOT-23-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "MMBT3904LT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C81464"; VariantName = "[No Variations]"
+Added Component: Designator=R64(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R65(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R66(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R67(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R68(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R69(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R70(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=R71(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Resistance (Ohms)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22548"; VariantName = "[No Variations]"
+Added Component: Designator=T13(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T14(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T15(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T16(SOT-23-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IO-15-16-out Pin=C1-2
+Added Pin To Net: NetName=IO-1-2-out Pin=C3-2
+Added Pin To Net: NetName=IO-13-14-out Pin=C13-2
+Added Pin To Net: NetName=IO-3-4-out Pin=C15-2
+Added Pin To Net: NetName=IO-11-12-out Pin=C17-2
+Added Pin To Net: NetName=IO-7-8-out Pin=C25-2
+Added Pin To Net: NetName=IO-9-10-out Pin=C27-2
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=+3.3V Pin=R64-1
+Added Pin To Net: NetName=NetQ7_2 Pin=R64-2
+Added Pin To Net: NetName=IO-13-14-off Pin=R65-1
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R66-1
+Added Pin To Net: NetName=IO-13-14-on Pin=R66-2
+Added Pin To Net: NetName=GND Pin=R67-1
+Added Pin To Net: NetName=NetR65_2 Pin=R67-2
+Added Pin To Net: NetName=+3.3V Pin=R68-1
+Added Pin To Net: NetName=NetQ8_2 Pin=R68-2
+Added Pin To Net: NetName=IO-15-16-off Pin=R69-1
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R70-1
+Added Pin To Net: NetName=IO-15-16-on Pin=R70-2
+Added Pin To Net: NetName=GND Pin=R71-1
+Added Pin To Net: NetName=NetR69_2 Pin=R71-2
+Added Pin To Net: NetName=NetQ7_2 Pin=T13-1
+Added Pin To Net: NetName=IO-13-14-out Pin=T13-2
+Added Pin To Net: NetName=+3.3V Pin=T13-3
+Added Pin To Net: NetName=NetR65_2 Pin=T14-1
+Added Pin To Net: NetName=IO-13-14-out Pin=T14-2
+Added Pin To Net: NetName=GND Pin=T14-3
+Added Pin To Net: NetName=NetQ8_2 Pin=T15-1
+Added Pin To Net: NetName=IO-15-16-out Pin=T15-2
+Added Pin To Net: NetName=+3.3V Pin=T15-3
+Added Pin To Net: NetName=NetR69_2 Pin=T16-1
+Added Pin To Net: NetName=IO-15-16-out Pin=T16-2
+Added Pin To Net: NetName=GND Pin=T16-3
+Added Pin To Net: NetName=IO-15-16-out Pin=U3-1
+Added Pin To Net: NetName=IO-1-2-out Pin=U4-1
+Added Pin To Net: NetName=IO-13-14-out Pin=U9-1
+Added Pin To Net: NetName=IO-3-4-out Pin=U10-1
+Added Pin To Net: NetName=IO-11-12-out Pin=U11-1
+Added Pin To Net: NetName=IO-7-8-out Pin=U15-1
+Added Pin To Net: NetName=IO-9-10-out Pin=U16-1
+Added Pin To Net: NetName=IO-6-7-out Pin=C5-2
+Added Pin To Net: NetName=IO-6-7-out Pin=U5-1
+Added Net: Name=IO-6-7-out

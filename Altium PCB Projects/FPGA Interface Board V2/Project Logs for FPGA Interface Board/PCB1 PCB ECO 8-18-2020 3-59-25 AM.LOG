@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=FPGA Member=U1
+Added Pin To Net: NetName=CLK1_IN1 Pin=RF1-5
+Added Pin To Net: NetName=NetLabel7 Pin=RF2-5
+Added Net: Name=NetLabel7

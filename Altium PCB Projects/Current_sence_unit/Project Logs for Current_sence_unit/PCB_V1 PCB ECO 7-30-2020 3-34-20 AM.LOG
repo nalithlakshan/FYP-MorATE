@@ -1,0 +1,14 @@
+Added Component: Designator=K8(PCB-ei6nokn2irsc2a7yt94x-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current-Rated"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture Part Number"; Value = "G5NB-1A-E-DC12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C225714"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=K8-1
+Added Pin To Net: NetName=LOAD Pin=K8-2
+Added Pin To Net: NetName=Load_select Pin=K8-4
+Change Net Name : Old Net Name=VGND New Net Name=Current_OUT
+Added Pin To Net: NetName=Current_IN Pin=K8-3
+Added Net: Name=Current_IN
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component K8 3A Relay

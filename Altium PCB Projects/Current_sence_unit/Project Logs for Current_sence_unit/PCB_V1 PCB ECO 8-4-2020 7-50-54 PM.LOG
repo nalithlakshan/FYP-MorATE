@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=-5V Pin=J4-2
+Added Pin To Net: NetName=+12 Pin=J7-1
+Added Pin To Net: NetName=+5V Pin=J7-2
+Added Pin To Net: NetName=5ISO+ Pin=J?-1
+Added Pin To Net: NetName=5ISO- Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=-5V Pin=J?-4
+Added Pin To Net: NetName=+12 Pin=J?-5
+Added Pin To Net: NetName=+5V Pin=J?-6
+Added Member To Class: ClassName=Current_sence-load-volt_meter Member=Component J? CN-1P-M-R3
+Added Room: Name=Current_sence-load-volt_meter

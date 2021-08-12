@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=F8 Pin=CN5-2
+Removed Pin From Net: NetName=F9 Pin=CN5-3
+Removed Member From Class: ClassName=Sheet1 Member=C16
+Removed Member From Class: ClassName=Sheet1 Member=C17
+Added Pin To Net: NetName=F9 Pin=CN5-2
+Added Pin To Net: NetName=F8 Pin=CN5-3
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 10K

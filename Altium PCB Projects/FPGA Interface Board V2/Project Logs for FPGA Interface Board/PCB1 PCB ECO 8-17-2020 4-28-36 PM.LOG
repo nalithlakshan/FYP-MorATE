@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=IO9 NewDesignator=IO16
+Change Component Designator: OldDesignator=IO10 NewDesignator=IO15
+Change Component Designator: OldDesignator=IO11 NewDesignator=IO14
+Change Component Designator: OldDesignator=IO12 NewDesignator=IO13
+Change Component Designator: OldDesignator=IO13 NewDesignator=IO12
+Change Component Designator: OldDesignator=IO14 NewDesignator=IO11
+Change Component Designator: OldDesignator=IO15 NewDesignator=IO10
+Change Component Designator: OldDesignator=IO16 NewDesignator=IO9
+Change Net Name : Old Net Name=NetIO9_1 New Net Name=NetIO16_1
+Change Net Name : Old Net Name=NetIO10_1 New Net Name=NetIO15_1
+Change Net Name : Old Net Name=NetIO11_1 New Net Name=NetIO14_1
+Change Net Name : Old Net Name=NetIO12_1 New Net Name=NetIO13_1
+Change Net Name : Old Net Name=NetIO13_1 New Net Name=NetIO12_1
+Change Net Name : Old Net Name=NetIO14_1 New Net Name=NetIO11_1
+Change Net Name : Old Net Name=NetIO15_1 New Net Name=NetIO10_1
+Change Net Name : Old Net Name=NetIO16_1 New Net Name=NetIO9_1

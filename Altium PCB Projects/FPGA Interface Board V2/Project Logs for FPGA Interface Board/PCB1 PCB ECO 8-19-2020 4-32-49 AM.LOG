@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GPIO_026 Pin=U3-2
+Removed Pin From Net: NetName=GPIO_027 Pin=U3-3
+Removed Pin From Net: NetName=GPIO_028 Pin=U6-2
+Removed Pin From Net: NetName=GPIO_029 Pin=U6-3
+Removed Pin From Net: NetName=GPIO_030 Pin=U9-2
+Removed Pin From Net: NetName=GPIO_031 Pin=U9-3
+Removed Pin From Net: NetName=GPIO_032 Pin=U12-2
+Removed Pin From Net: NetName=GPIO_033 Pin=U12-3
+Removed Pin From Net: NetName=GPIO_020 Pin=U14-2
+Removed Pin From Net: NetName=GPIO_021 Pin=U14-3
+Removed Pin From Net: NetName=GPIO_022 Pin=U16-2
+Removed Pin From Net: NetName=GPIO_023 Pin=U16-3
+Removed Pin From Net: NetName=GPIO_024 Pin=U18-2
+Removed Pin From Net: NetName=GPIO_025 Pin=U18-3
+Added Pin To Net: NetName=GPIO_027 Pin=U3-2
+Added Pin To Net: NetName=GPIO_026 Pin=U3-3
+Added Pin To Net: NetName=GPIO_029 Pin=U6-2
+Added Pin To Net: NetName=GPIO_028 Pin=U6-3
+Added Pin To Net: NetName=GPIO_031 Pin=U9-2
+Added Pin To Net: NetName=GPIO_030 Pin=U9-3
+Added Pin To Net: NetName=GPIO_033 Pin=U12-2
+Added Pin To Net: NetName=GPIO_032 Pin=U12-3
+Added Pin To Net: NetName=GPIO_021 Pin=U14-2
+Added Pin To Net: NetName=GPIO_020 Pin=U14-3
+Added Pin To Net: NetName=GPIO_023 Pin=U16-2
+Added Pin To Net: NetName=GPIO_022 Pin=U16-3
+Added Pin To Net: NetName=GPIO_025 Pin=U18-2
+Added Pin To Net: NetName=GPIO_024 Pin=U18-3
+Added Member To Class: ClassName=FPGA Member=Component CN1 B8B-XH-A (LF)(SN)
+Added Member To Class: ClassName=FPGA Member=Component CN2 B8B-XH-A (LF)(SN)

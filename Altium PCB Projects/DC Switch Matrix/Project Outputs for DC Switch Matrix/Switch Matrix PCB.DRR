@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Switch Matrix PCB.PcbDoc   9/9/2020  1:29:34 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Switch Matrix PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             315       PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T3      42mil (1.067mm)                                           Round             9         PTH        0.00inch (0.00mm)
+T4      44mil (1.118mm)                                           Round             224       PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T6      67mil (1.699mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T7      118mil (3mm)                                              Round             4         PTH        0.00inch (0.00mm)
+T8      118mil (3mm)                                              Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              576
+
+Total Processing Time (hh:mm:ss) : 00:00:00
