@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>img/IC_img.jpg</file>
+        <file>img/IC2.png</file>
+        <file>img/IC4.png</file>
+        <file>img/IC_grey.png</file>
+        <file>img/light_blue.jpg</file>
+        <file>img/waves.jpg</file>
+        <file>img/IC_icon_img.png</file>
+        <file>img/testing_img.jpg</file>
+        <file>img/testing_img2.jpg</file>
+        <file>img/testing4.png</file>
+        <file>img/testing6.png</file>
+        <file>img/img_gear.png</file>
+        <file>img/img_gear2.png</file>
+        <file>img/blue_arrow.png</file>
+        <file>img/green_arrow.png</file>
+        <file>img/yellow_arrow.png</file>
+        <file>img/bage_arrow.png</file>
+        <file>img/background2.png</file>
+        <file>img/run.png</file>
+        <file>img/loading.gif</file>
+        <file>img/fail.png</file>
+        <file>img/pass.png</file>
+        <file>img/loading3.png</file>
+        <file>img/failed_background.png</file>
+        <file>img/passed_background.png</file>
+    </qresource>
+</RCC>
