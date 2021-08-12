@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jul 25 22:38:55 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : IO_driver
+Top-level Entity Name : IO_driver
+Family : Cyclone IV E
+Total logic elements : 3,076
+    Total combinational functions : 2,820
+    Dedicated logic registers : 2,333
+Total registers : 2333
+Total pins : 53
+Total virtual pins : 0
+Total memory bits : 540,672
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

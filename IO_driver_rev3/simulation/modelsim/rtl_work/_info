@@ -1,0 +1,99 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim
+vfifo_1clk
+Z1 !s110 1610822697
+!i10b 1
+!s100 aXZic>nS>9;MBO_YQzQHA3
+IV9EMJ?7AdEfzRSMLRg0eU1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1610098003
+8C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_1clk.v
+FC:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_1clk.v
+Z3 L0 39
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1610822697.000000
+!s107 C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_1clk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3|C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_1clk.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work {+incdir+C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3}
+Z8 tCvgOpt 0
+vfifo_2clk
+R1
+!i10b 1
+!s100 ]E2K;ioI<M8mhZ8hlYCVi0
+IKBfm^G0BC;l0ZDjZDJnDa0
+R2
+R0
+w1610097783
+8C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_2clk.v
+FC:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_2clk.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_2clk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3|C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/fifo_2clk.v|
+!i113 1
+R6
+R7
+R8
+vIO_driver
+!s110 1610822696
+!i10b 1
+!s100 jIzFa2kHOXL@_fX`ZKYGi0
+I><8`c?k3kR3d==A9^[Y7Z3
+R2
+R0
+w1610822536
+8C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/IO_driver.v
+FC:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/IO_driver.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1610822696.000000
+!s107 C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/IO_driver.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3|C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/IO_driver.v|
+!i113 1
+R6
+R7
+R8
+n@i@o_driver
+vtb
+R1
+!i10b 1
+!s100 _IC2C7N<GSGPi<OChPYfK1
+I@Z<ZXWoVnQf7?0BRL;`[T1
+R2
+R0
+w1610821945
+8C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim/tb.v
+FC:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim/tb.v
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim|C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim/tb.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/0 Nalith Drive/FYP/FPGA/IO_driver_rev3/simulation/modelsim}
+R8

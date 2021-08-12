@@ -1,0 +1,8 @@
+
+State Machine - |IO_driver|state
+Name state.EXECUTION state.COPY_TO_MISO_FIFO state.COPY_FROM_MOSI_FIFO state.000 state.SET_CLK_EN 
+state.000 0 0 0 0 0 
+state.COPY_FROM_MOSI_FIFO 0 0 1 1 0 
+state.COPY_TO_MISO_FIFO 0 1 0 1 0 
+state.EXECUTION 1 0 0 1 0 
+state.SET_CLK_EN 0 0 0 1 1 

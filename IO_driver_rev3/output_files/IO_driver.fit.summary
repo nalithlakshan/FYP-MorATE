@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Jul 25 22:39:26 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : IO_driver
+Top-level Entity Name : IO_driver
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 2,981 / 22,320 ( 13 % )
+    Total combinational functions : 2,820 / 22,320 ( 13 % )
+    Dedicated logic registers : 2,333 / 22,320 ( 10 % )
+Total registers : 2333
+Total pins : 53 / 154 ( 34 % )
+Total virtual pins : 0
+Total memory bits : 540,672 / 608,256 ( 89 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

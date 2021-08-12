@@ -1,0 +1,221 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "MISO",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[0]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[1]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[2]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[3]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[4]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[5]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[6]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[7]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[8]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[9]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[10]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[11]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[12]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[13]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[14]",
+					"strict" : false
+				},
+				{
+					"name" : "io_source_pins[15]",
+					"strict" : false
+				},
+				{
+					"name" : "req_done",
+					"strict" : false
+				},
+				{
+					"name" : "state_indication[0]",
+					"strict" : false
+				},
+				{
+					"name" : "state_indication[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_clock_probe",
+					"strict" : false
+				},
+				{
+					"name" : "c_clock_probe",
+					"strict" : false
+				},
+				{
+					"name" : "s_clk",
+					"strict" : false
+				},
+				{
+					"name" : "c_clk",
+					"strict" : false
+				},
+				{
+					"name" : "CS_addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "CS_addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "addr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "request[1]",
+					"strict" : false
+				},
+				{
+					"name" : "request[2]",
+					"strict" : false
+				},
+				{
+					"name" : "request[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MOSI",
+					"strict" : false
+				},
+				{
+					"name" : "process_rqst",
+					"strict" : false
+				},
+				{
+					"name" : "SCK",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[3]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[5]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[1]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[7]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[10]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[12]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[8]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[14]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[2]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[4]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[0]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[6]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[11]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[13]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[9]",
+					"strict" : false
+				},
+				{
+					"name" : "io_capture_pins[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

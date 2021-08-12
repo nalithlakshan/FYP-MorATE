@@ -1,0 +1,74 @@
+// synopsys translate_off
+`timescale 1 ps / 1 ps
+// synopsys translate_on
+module  tb;
+
+reg  reset;
+reg  wclk;
+reg  rclk;
+reg  data_in;
+reg  read_rq;
+reg  write_rq;
+wire   data_out;
+wire   [13:0] wrusedw;
+wire   [13:0] rdusedw;
+wire   wr_full;
+wire   rdempty;
+
+
+initial begin
+	reset    <= 0;
+	wclk     <= 0;
+	rclk     <= 0;
+	data_in  <= 0;
+	read_rq  <= 0;
+	write_rq <= 0;
+	#1 reset <= 1;
+end
+
+initial begin
+	#1write_rq <= 1;
+	#1 data_in <= 1;
+
+	#1 wclk    <= 1;
+	   data_in <= 1;
+	#1 wclk    <= 0;
+
+	#1 wclk    <= 1;
+	   data_in <= 0;
+	#1 wclk    <= 0;
+
+	#1 wclk    <= 1;
+	   data_in <= 1;
+	#1 wclk    <= 0;
+
+	 1write_rq <= 0;
+
+	#1 wclk    <= 1;
+	   data_in <= 0;
+	#1 wclk    <= 0;
+
+	#1 wclk    <= 1;
+	   data_in <= 1;
+	#1 wclk    <= 0;
+
+	#1 wclk    <= 1;
+	   data_in <= 1;
+	#1 wclk    <= 0;
+end
+
+IO_driver driver(
+	.reset   (reset),
+	.wclk    (wclk),
+	.rclk    (rclk),
+	.data_in (data_in),
+	.data_out(data_out),
+	.read_rq (read_rq),
+	.write_rq(write_rq),
+	.wrusedw (wrusedw),
+	.rdusedw (rdusedw),
+	.wr_full (wr_full),
+	.rdempty (rdempty)
+);
+
+endmodule
