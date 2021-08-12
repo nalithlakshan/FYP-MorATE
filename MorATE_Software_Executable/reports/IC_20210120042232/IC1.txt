@@ -1,0 +1,12 @@
+####################MorATE TEST REPORT####################
+  Project  : HC7425
+  Operator : User
+  Date     : Wed Jan 20 2021
+  Time     : 04:22:32
+##########################################################
+
+Task Name: IDDQ
+Pincard: A	Pin: 9   	V_result: 2.96	V_min: 0	V_max: 5.1	Status: PASS
+Pincard: A	Pin: 9   	I_result: 322.00	I_min: 0	I_max: 1000	Status: PASS
+
+Task Name: IDDQ(1)

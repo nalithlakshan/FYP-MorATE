@@ -1,0 +1,15 @@
+#################MorATE TEST REPORT SUMMARY#################
+  Project  : CD4001
+  Operator : hii
+  Date     : Mon Jan 11 2021
+  Time     : 16:14:41
+##########################################################
+
+  Total ICs tested     : 1
+ID of the starting IC  : 1
+ID of the last IC      : 1
+  No. of ICs passed    : 1
+  No. of ICs failed    : 0
+
+  List of failed ICs   : 
+##########################################################

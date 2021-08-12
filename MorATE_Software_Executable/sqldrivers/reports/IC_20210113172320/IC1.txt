@@ -1,0 +1,8 @@
+####################MorATE TEST REPORT####################
+  Project  : CD4001
+  Operator : User
+  Date     : Wed Jan 13 2021
+  Time     : 17:23:20
+##########################################################
+Just Power Up
+

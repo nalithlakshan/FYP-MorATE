@@ -1,0 +1,61 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Mar 15 2021
+  Time     : 02:48:51
+###################################################################
+
+Task Name: Push
+Pincard: A	Pin: 1   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 1   	I_result: 492.60     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 2   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 2   	I_result: 492.85     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 5   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 5   	I_result: 493.60     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 6   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 6   	I_result: 492.98     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 10   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 10   	I_result: 494.98     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 11   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 11   	I_result: 494.73     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 14   	V_result: 0.70     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 14   	I_result: 494.10     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 15   	V_result: 5.02     	V_min: 0.7	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 15   	I_result: -5.78     	I_min: 490	I_max: 510	Status: FAIL
+
+Task Name: Pull
+Pincard: A	Pin: 1   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 1   	I_result: -589.03     	I_min: -510	I_max: -500	Status: FAIL
+Pincard: A	Pin: 2   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 2   	I_result: -507.40     	I_min: -510	I_max: -500	Status: PASS
+Pincard: A	Pin: 3   	V_result: 1.78     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 3   	I_result: -509.40     	I_min: -510	I_max: -500	Status: PASS
+Pincard: A	Pin: 4   	V_result: 1.78     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 4   	I_result: -509.78     	I_min: -510	I_max: -500	Status: PASS
+Pincard: A	Pin: 5   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 5   	I_result: -504.65     	I_min: -510	I_max: -500	Status: PASS
+Pincard: A	Pin: 6   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 6   	I_result: -502.90     	I_min: -510	I_max: -500	Status: PASS
+Pincard: A	Pin: 10   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 10   	I_result: -496.53     	I_min: -510	I_max: -500	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 11   	I_result: -497.65     	I_min: -510	I_max: -500	Status: FAIL
+Pincard: A	Pin: 12   	V_result: 1.79     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 12   	I_result: -497.15     	I_min: -510	I_max: -500	Status: FAIL
+Pincard: A	Pin: 13   	V_result: 1.79     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 13   	I_result: -496.65     	I_min: -510	I_max: -500	Status: FAIL
+Pincard: A	Pin: 14   	V_result: 1.80     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 14   	I_result: -497.03     	I_min: -510	I_max: -500	Status: FAIL
+Pincard: A	Pin: 15   	V_result: 1.77     	V_min: 1.7	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 15   	I_result: -496.53     	I_min: -510	I_max: -500	Status: FAIL
+
+Task Name: Power Up
+
+Task Name: Nand Gate
+io5
+Expected: 01110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111011101110111
+Received: 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+###################################################################
+  Overall result  : FAIL
+###################################################################

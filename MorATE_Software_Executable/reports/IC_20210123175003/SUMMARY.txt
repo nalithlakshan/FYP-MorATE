@@ -1,0 +1,17 @@
+#################MorATE TEST REPORT SUMMARY#################
+  Project  : P25Q40
+  Operator : Tilina
+  Date     : Sat Jan 23 2021
+  Time     : 17:51:12
+##########################################################
+
+  Total ICs tested     : 2
+ID of the starting IC  : 1
+ID of the last IC      : 2
+  No. of ICs passed    : 0
+  No. of ICs failed    : 2
+
+  List of failed ICs   : 
+IC1
+IC2
+##########################################################

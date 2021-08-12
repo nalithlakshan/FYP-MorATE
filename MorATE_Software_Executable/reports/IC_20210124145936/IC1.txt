@@ -1,0 +1,42 @@
+#######################MorATE TEST REPORT##############################
+  Project  : P25Q40
+  Operator : User
+  Date     : Sun Jan 24 2021
+  Time     : 14:59:39
+###################################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 3.30     	V_min: 3.5	V_max: 3.6	Status: FAIL
+Pincard: A	Pin: 9   	I_result: 13.23     	I_min: 5	I_max: 20	Status: PASS
+
+Task Name: Push
+Pincard: A	Pin: 2   	V_result: 2.90     	V_min: 2.5	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 2   	I_result: 96.73     	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 3   	V_result: 2.88     	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 3   	I_result: 96.23     	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 10   	V_result: 2.91     	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 10   	I_result: 96.60     	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 11   	V_result: 3.10     	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 11   	I_result: 97.48     	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 12   	V_result: 2.89     	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 12   	I_result: 96.60     	I_min: 90	I_max: 110	Status: PASS
+
+Task Name: pull
+Pincard: A	Pin: 1   	V_result: 1.14     	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 1   	I_result: -396.90     	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 2   	V_result: 1.46     	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 2   	I_result: -395.65     	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 3   	V_result: 1.46     	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 3   	I_result: -396.03     	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 10   	V_result: 1.46     	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 10   	I_result: -394.03     	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 11   	V_result: 1.49     	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 11   	I_result: -394.78     	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 12   	V_result: 1.46     	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 12   	I_result: -394.65     	I_min: -410	I_max: -390	Status: PASS
+
+Task Name: digital test
+io1	Expected: 0001111100111011	Received: 0001111100111011	Status: PASS
+###################################################################
+  Overall result  : FAIL
+###################################################################

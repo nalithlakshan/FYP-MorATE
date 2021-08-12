@@ -1,0 +1,61 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011 double
+  Operator : User
+  Date     : Sat Jul 24 2021
+  Time     : 02:30:48
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: IDDQ Test
+-------------------------------------------------------------------
+Pincard: A	Pin: 9   	V_result: 3.74     	V_min: 3.7	V_max: 3.8	Status: PASS
+Pincard: A	Pin: 9   	I_result: 5.00     	I_min: 0	I_max: 100	Status: PASS
+Pincard: B	Pin: 9   	V_result: 3.75     	V_min: 3.7	V_max: 3.8	Status: PASS
+Pincard: B	Pin: 9   	I_result: 6.50     	I_min: 0	I_max: 100	Status: PASS
+Task Duration : 3433ms
+
+-------------------------------------------------------------------
+Task Name: Digital Test 1
+-------------------------------------------------------------------
+io5
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io7
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io27
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io25
+Expected: 01110111
+Received: 01110111
+Status: PASS
+Task Duration : 1327ms
+
+-------------------------------------------------------------------
+Task Name: Digital Test 2
+-------------------------------------------------------------------
+io8
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io10
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io26
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io24
+Expected: 01110111
+Received: 01110111
+Status: PASS
+Task Duration : 1197ms
+###################################################################
+  Overall result  : PASS
+###################################################################
+Total Testing Time : 6685ms

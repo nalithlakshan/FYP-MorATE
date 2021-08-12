@@ -1,0 +1,53 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Mar 15 2021
+  Time     : 02:17:11
+###################################################################
+
+Task Name: Push
+Pincard: A	Pin: 1   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 1   	I_result: 488.10     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 2   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 488.35     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 5   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 5   	I_result: 487.98     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 6   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 6   	I_result: 489.48     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 10   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 10   	I_result: 490.73     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 11   	I_result: 489.85     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 14   	V_result: 0.71     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 14   	I_result: 489.48     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 15   	V_result: 0.73     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 15   	I_result: 489.48     	I_min: 0	I_max: 0	Status: FAIL
+
+Task Name: Pull
+Pincard: A	Pin: 1   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 1   	I_result: -571.90     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 2   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 2   	I_result: -509.28     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 3   	V_result: 1.77     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 3   	I_result: -511.53     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 4   	V_result: 1.77     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 4   	I_result: -511.65     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 5   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 5   	I_result: -507.03     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 6   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 6   	I_result: -506.28     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 10   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 10   	I_result: -501.28     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 11   	I_result: -502.03     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 12   	V_result: 1.77     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 12   	I_result: -501.65     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 13   	V_result: 1.78     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 13   	I_result: -502.65     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 14   	V_result: 1.78     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 14   	I_result: -502.90     	I_min: 0	I_max: 0	Status: FAIL
+Pincard: A	Pin: 15   	V_result: 1.76     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 15   	I_result: -502.53     	I_min: 0	I_max: 0	Status: FAIL
+###################################################################
+  Overall result  : FAIL
+###################################################################

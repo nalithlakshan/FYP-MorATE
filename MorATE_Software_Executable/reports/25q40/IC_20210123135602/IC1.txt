@@ -1,0 +1,37 @@
+####################MorATE TEST REPORT####################
+  Project  : P25Q40
+  Operator : User
+  Date     : Sat Jan 23 2021
+  Time     : 13:56:04
+##########################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 3.29	V_min: 3.2	V_max: 3.4	Status: PASS
+Pincard: A	Pin: 9   	I_result: 17.23	I_min: 5	I_max: 15	Status: FAIL
+
+Task Name: Push
+Pincard: A	Pin: 2   	V_result: 5.04	V_min: 2.2	V_max: 2.8	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 95.85	I_min: 390	I_max: 410	Status: FAIL
+Pincard: A	Pin: 3   	V_result: 5.04	V_min: 2.2	V_max: 2.8	Status: FAIL
+Pincard: A	Pin: 3   	I_result: 95.85	I_min: 390	I_max: 410	Status: FAIL
+Pincard: A	Pin: 10   	V_result: 5.04	V_min: 2.2	V_max: 2.8	Status: FAIL
+Pincard: A	Pin: 10   	I_result: 94.73	I_min: 390	I_max: 410	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 5.04	V_min: 2.2	V_max: 2.8	Status: FAIL
+Pincard: A	Pin: 11   	I_result: 93.48	I_min: 390	I_max: 410	Status: FAIL
+Pincard: A	Pin: 12   	V_result: 5.05	V_min: 2.2	V_max: 2.8	Status: FAIL
+Pincard: A	Pin: 12   	I_result: 95.48	I_min: 390	I_max: 410	Status: FAIL
+
+Task Name: pull
+Pincard: A	Pin: 2   	V_result: 1.46	V_min: 1.2	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 2   	I_result: -393.78	I_min: -390	I_max: -410	Status: FAIL
+Pincard: A	Pin: 3   	V_result: 1.46	V_min: 1.2	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 3   	I_result: -394.90	I_min: -390	I_max: -410	Status: FAIL
+Pincard: A	Pin: 10   	V_result: 1.46	V_min: 1.2	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 10   	I_result: -393.90	I_min: -390	I_max: -410	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 1.49	V_min: 1.2	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 11   	I_result: -394.03	I_min: -390	I_max: -410	Status: FAIL
+Pincard: A	Pin: 12   	V_result: 1.46	V_min: 1.2	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 12   	I_result: -394.40	I_min: -390	I_max: -410	Status: FAIL
+##########################################################
+  Overall result  : FAIL
+##########################################################

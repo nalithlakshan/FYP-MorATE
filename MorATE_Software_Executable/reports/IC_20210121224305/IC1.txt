@@ -1,0 +1,13 @@
+####################MorATE TEST REPORT####################
+  Project  : AD826
+  Operator : User
+  Date     : Thu Jan 21 2021
+  Time     : 22:43:05
+##########################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 4.93	V_min: 4.9	V_max: 5.1	Status: PASS
+Pincard: A	Pin: 9   	I_result: 285.38	I_min: 0	I_max: 80	Status: FAIL
+##########################################################
+  Overall result  : FAIL
+##########################################################

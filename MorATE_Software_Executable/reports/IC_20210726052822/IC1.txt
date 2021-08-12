@@ -1,0 +1,19 @@
+#######################MorATE TEST REPORT##############################
+  Project  : SPI Flash
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 05:28:25
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: digital test
+-------------------------------------------------------------------
+io3
+Expected: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Received: 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+Status: PASS
+Task Duration : 886ms
+###################################################################
+  Overall result  : PASS
+###################################################################
+Total Testing Time : 3425ms

@@ -1,0 +1,15 @@
+####################MorATE TEST REPORT####################
+  Project  : HC7425
+  Operator : User
+  Date     : Wed Jan 20 2021
+  Time     : 02:46:57
+##########################################################
+
+Task Name: push
+Pincard: A	Pin: 1   	V_result: 5.17	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 1   	I_result: -2.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 2   	V_result: 5.17	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 2   	I_result: -1.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 3   	V_result: 0.19	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 3   	I_result: -0.13	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 4   	V_result: 0.21	V_min: 2.5	V_max: 3.3	Status: FAIL

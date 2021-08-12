@@ -1,0 +1,3 @@
+pin_card.c:10:6:request_from_pin_card	24	static
+pin_card.c:68:9:decode_packet	16	static
+pin_card.c:225:9:read_packet_FIFO	16	static

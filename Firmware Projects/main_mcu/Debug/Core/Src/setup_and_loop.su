@@ -1,0 +1,6 @@
+setup_and_loop.c:10:6:setup	8	static
+setup_and_loop.c:38:6:main_loop	8	static
+setup_and_loop.c:90:10:VCP_read	24	static
+setup_and_loop.c:110:6:print	96	static
+setup_and_loop.c:124:6:beep	16	static
+setup_and_loop.c:131:6:led_kinghtrider	8	static

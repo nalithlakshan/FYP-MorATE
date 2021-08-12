@@ -1,0 +1,43 @@
+####################MorATE TEST REPORT####################
+  Project  : CD4001
+  Operator : User
+  Date     : Sun Jan 17 2021
+  Time     : 16:20:33
+##########################################################
+
+Task Name: Just Power Up
+Pincard: A	Pin: 1	V_result: 1	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 3	V_result: 3	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 4	V_result: 4	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 6	V_result: 6	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 7	V_result: 7	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 8	V_result: 8	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 10	V_result: 10	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 13	V_result: 13	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 15	V_result: 15	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 16	V_result: 16	V_min: 0	V_max: 0	Status: FAIL
+
+Task Name: task2
+Pincard: A	Pin: 1	V_result: 1	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 3	V_result: 3	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 5	V_result: 5	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 6	V_result: 6	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 7	V_result: 7	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 9	V_result: 9	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 10	V_result: 10	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 11	V_result: 11	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 12	V_result: 12	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 13	V_result: 13	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 14	V_result: 14	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 15	V_result: 15	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 16	V_result: 16	V_min: 0	V_max: 0	Status: FAIL
+
+Task Name: 11 pin
+
+Task Name: 16 pin
+
+Task Name: A1_V_meassure
+Pincard: A	Pin: 1	V_result: 1	V_min: 0	V_max: 0	Status: FAIL
+##########################################################
+  Overall result  : FAIL
+##########################################################

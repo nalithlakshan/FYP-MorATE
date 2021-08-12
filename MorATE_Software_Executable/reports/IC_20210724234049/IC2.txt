@@ -1,0 +1,276 @@
+#######################MorATE TEST REPORT##############################
+  Project  : digital debug
+  Operator : User
+  Date     : Sat Jul 24 2021
+  Time     : 23:41:03
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: same pin test
+-------------------------------------------------------------------
+io1
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io2
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io3
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io4
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io5
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io6
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io7
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io8
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io9
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io10
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io11
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io12
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io13
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io14
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io15
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io16
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io17
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io18
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io19
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io20
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io21
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io22
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io23
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io24
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io25
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io26
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io27
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io28
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io29
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io30
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io31
+Expected: 10101011
+Received: 10101011
+Status: PASS
+io32
+Expected: 10101011
+Received: 10101011
+Status: PASS
+Task Duration : 3094ms
+
+-------------------------------------------------------------------
+Task Name: same pin test(1)
+-------------------------------------------------------------------
+io1
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io2
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io3
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io4
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io5
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io6
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io7
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io8
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io9
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io10
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io11
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io12
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io13
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io14
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io15
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io16
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io17
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io18
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io19
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io20
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io21
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io22
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io23
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io24
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io25
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io26
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io27
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io28
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io29
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io30
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io31
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+io32
+Expected: 10101011
+Received: 11111111
+Status: FAIL
+Task Duration : 3092ms
+###################################################################
+  Overall result  : FAIL
+###################################################################
+Total Testing Time : 8322ms

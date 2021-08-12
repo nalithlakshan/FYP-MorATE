@@ -1,0 +1,20 @@
+#################MorATE TEST REPORT SUMMARY#################
+  Project  : AD826
+  Operator : User
+  Date     : Thu Jan 21 2021
+  Time     : 22:44:59
+##########################################################
+
+  Total ICs tested     : 5
+ID of the starting IC  : 1
+ID of the last IC      : 5
+  No. of ICs passed    : 0
+  No. of ICs failed    : 5
+
+  List of failed ICs   : 
+IC1
+IC2
+IC3
+IC4
+IC5
+##########################################################

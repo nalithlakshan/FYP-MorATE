@@ -1,0 +1,15 @@
+##################MorATE TEST REPORT SUMMARY#########################
+  Project  : digital debug
+  Operator : User
+  Date     : Sun Jul 25 2021
+  Time     : 22:58:20
+#####################################################################
+
+  Total ICs tested     : 1
+ID of the starting IC  : 1
+ID of the last IC      : 1
+  No. of ICs passed    : 1
+  No. of ICs failed    : 0
+
+  List of failed ICs   : 
+##########################################################

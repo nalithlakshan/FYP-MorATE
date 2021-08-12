@@ -1,0 +1,10 @@
+si5351mcu.cpp:40:7:void Si5351mcu::init()	16	static
+si5351mcu.cpp:50:7:void Si5351mcu::init(uint32_t)	16	static
+si5351mcu.cpp:79:6:void Si5351mcu::setFreq(uint8_t, uint32_t)	72	static
+si5351mcu.cpp:210:6:void Si5351mcu::reset()	16	static
+si5351mcu.cpp:224:6:void Si5351mcu::off()	24	static
+si5351mcu.cpp:236:6:void Si5351mcu::correction(int32_t)	16	static
+si5351mcu.cpp:250:6:void Si5351mcu::enable(uint8_t)	24	static
+si5351mcu.cpp:272:6:void Si5351mcu::disable(uint8_t)	16	static
+si5351mcu.cpp:284:6:void Si5351mcu::setPower(uint8_t, uint8_t)	16	static
+si5351mcu.cpp:296:6:void Si5351mcu::i2cWrite(uint8_t, uint8_t)	32	static

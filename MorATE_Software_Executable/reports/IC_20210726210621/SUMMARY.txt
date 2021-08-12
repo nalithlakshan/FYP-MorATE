@@ -1,0 +1,16 @@
+##################MorATE TEST REPORT SUMMARY#########################
+  Project  : SD RAM
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 21:06:31
+#####################################################################
+
+  Total ICs tested     : 1
+ID of the starting IC  : 1
+ID of the last IC      : 1
+  No. of ICs passed    : 0
+  No. of ICs failed    : 1
+
+  List of failed ICs   : 
+IC1
+##########################################################

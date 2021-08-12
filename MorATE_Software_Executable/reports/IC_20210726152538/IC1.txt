@@ -1,0 +1,47 @@
+#######################MorATE TEST REPORT##############################
+  Project  : 74HC595D
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 15:25:43
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: digital test
+-------------------------------------------------------------------
+io16
+Expected: xxxxxxxx1011011110110111
+Received: 000000001011011110110111
+Status: PASS
+io4
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 000000000000000000000000
+Status: PASS
+io1
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 000000000000000000000000
+Status: PASS
+io3
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 111111111111111111111111
+Status: PASS
+io7
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 111111111111111111111111
+Status: PASS
+io9
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 000000000000000000000000
+Status: PASS
+io11
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 111111111111111111111111
+Status: PASS
+io13
+Expected: xxxxxxxxxxxxxxxxxxxxxxxx
+Received: 111111111111111111111111
+Status: PASS
+Task Duration : 1119ms
+###################################################################
+  Overall result  : PASS
+###################################################################
+Total Testing Time : 5782ms

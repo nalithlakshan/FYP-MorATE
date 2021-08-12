@@ -1,0 +1,58 @@
+#######################MorATE TEST REPORT##############################
+  Project  : SD RAM
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 22:57:08
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: IDDQ
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: 3.29     	V_min: 3	V_max: 3.5	Status: PASS
+Task Duration : 1311ms
+
+-------------------------------------------------------------------
+Task Name: WRITE
+-------------------------------------------------------------------
+Task Duration : 37ms
+
+-------------------------------------------------------------------
+Task Name: READ
+-------------------------------------------------------------------
+io5
+Expected: xxxxxxx00111111xxxxxxxx11111100xxxxxxxx11110011xxxxxxxx11001100xxx
+Received: 000000000111111000000001111110000000000111100110000000011001100000
+Status: PASS
+io3
+Expected: xxxxxxx00000011xxxxxxxx00000011xxxxxxxx00001100xxxxxxxx00000011xxx
+Received: 000000000000011000000000000001100000000000011000000000000000011000
+Status: PASS
+io7
+Expected: xxxxxxx11000000xxxxxxxx11111100xxxxxxxx00111111xxxxxxxx11110011xxx
+Received: 000000011000000000000001111110000000000001111110000000011110011000
+Status: PASS
+io9
+Expected: xxxxxxx00001100xxxxxxxx11110000xxxxxxxx00110011xxxxxxxx11111100xxx
+Received: 000000000001100000000001111000000000000001100110000000011111100000
+Status: PASS
+io10
+Expected: xxxxxxx00000000xxxxxxxx00000011xxxxxxxx00001111xxxxxxxx00001100xxx
+Received: 000000000000000000000000000001100000000000011110000000000001100000
+Status: PASS
+io8
+Expected: xxxxxxx11000011xxxxxxxx00001100xxxxxxxx00001111xxxxxxxx11001100xxx
+Received: 000000011000011000000000000110000000000000011110000000011001100000
+Status: PASS
+io6
+Expected: xxxxxxx00000011xxxxxxxx00001100xxxxxxxx00001100xxxxxxxx11001111xxx
+Received: 000000000000011000000000000110000000000000011000000000011001111000
+Status: PASS
+io4
+Expected: xxxxxxx00110000xxxxxxxx00110000xxxxxxxx00000000xxxxxxxx11111111xxx
+Received: 000000000110000000000000011000000000000000000000000000011111111000
+Status: PASS
+Task Duration : 3689ms
+###################################################################
+  Overall result  : PASS
+###################################################################
+Total Testing Time : 7514ms

@@ -1,0 +1,29 @@
+####################MorATE TEST REPORT####################
+  Project  : HC7425
+  Operator : User
+  Date     : Wed Jan 20 2021
+  Time     : 02:11:19
+##########################################################
+
+Task Name: push
+Pincard: A	Pin: 1   	V_result: 5.13	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 1   	I_result: 35.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 2   	V_result: 3.38	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 353.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 3   	V_result: 5.14	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 3   	I_result: 26.13	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 4   	V_result: 4.98	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 4   	I_result: 155.00	I_min: -1000	I_max: 1000	Status: PASS
+
+Task Name: pull
+Pincard: A	Pin: 1   	V_result: 1.76	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 1   	I_result: -503.38	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 2   	V_result: 1.81	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 2   	I_result: -502.75	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 3   	V_result: 1.76	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 3   	I_result: -504.00	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 4   	V_result: 1.81	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 4   	I_result: -501.38	I_min: -1000	I_max: 1000	Status: PASS
+##########################################################
+  Overall result  : FAIL
+##########################################################

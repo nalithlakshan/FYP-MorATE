@@ -1,0 +1,43 @@
+#######################MorATE TEST REPORT##############################
+  Project  : digital debug
+  Operator : User
+  Date     : Wed Jun 30 2021
+  Time     : 03:50:52
+###################################################################
+
+Task Name: test1
+io3
+Expected: 10110101
+Received: 10011101
+Status: FAIL
+io4
+Expected: 10110101
+Received: 11111111
+Status: FAIL
+io7
+Expected: 10011101
+Received: 11111111
+Status: FAIL
+io8
+Expected: 10011101
+Received: 11111111
+Status: FAIL
+io11
+Expected: 11010110
+Received: 11111111
+Status: FAIL
+io12
+Expected: 11010101
+Received: 11111111
+Status: FAIL
+io15
+Expected: 10011101
+Received: 11111111
+Status: FAIL
+io16
+Expected: 10011101
+Received: 11111111
+Status: FAIL
+###################################################################
+  Overall result  : FAIL
+###################################################################

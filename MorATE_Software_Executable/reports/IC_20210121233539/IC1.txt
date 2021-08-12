@@ -1,0 +1,13 @@
+####################MorATE TEST REPORT####################
+  Project  : P25Q40
+  Operator : User
+  Date     : Thu Jan 21 2021
+  Time     : 23:35:39
+##########################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 3.26	V_min: 3.2	V_max: 34	Status: PASS
+Pincard: A	Pin: 9   	I_result: -94.13	I_min: 5	I_max: 15	Status: FAIL
+##########################################################
+  Overall result  : FAIL
+##########################################################

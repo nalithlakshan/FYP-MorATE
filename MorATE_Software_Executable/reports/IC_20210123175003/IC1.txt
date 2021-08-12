@@ -1,0 +1,39 @@
+####################MorATE TEST REPORT####################
+  Project  : P25Q40
+  Operator : Tilina
+  Date     : Sat Jan 23 2021
+  Time     : 17:50:20
+##########################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 3.29	V_min: 3.2	V_max: 3.4	Status: PASS
+Pincard: A	Pin: 9   	I_result: 17.73	I_min: 5	I_max: 20	Status: PASS
+
+Task Name: Push
+Pincard: A	Pin: 2   	V_result: 2.91	V_min: 2.5	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 2   	I_result: 100.35	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 3   	V_result: 2.92	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 3   	I_result: 100.35	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 10   	V_result: 2.91	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 10   	I_result: 99.85	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 11   	V_result: 3.08	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 11   	I_result: 101.10	I_min: 90	I_max: 110	Status: PASS
+Pincard: A	Pin: 12   	V_result: 2.90	V_min: 2.2	V_max: 3.2	Status: PASS
+Pincard: A	Pin: 12   	I_result: 100.60	I_min: 140	I_max: 110	Status: FAIL
+
+Task Name: pull
+Pincard: A	Pin: 1   	V_result: 1.13	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 1   	I_result: -394.40	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 2   	V_result: 1.46	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 2   	I_result: -394.53	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 3   	V_result: 1.46	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 3   	I_result: -394.65	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 10   	V_result: 1.46	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 10   	I_result: -394.78	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 11   	V_result: 1.48	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 11   	I_result: -395.03	I_min: -410	I_max: -390	Status: PASS
+Pincard: A	Pin: 12   	V_result: 1.46	V_min: 1.1	V_max: 1.8	Status: PASS
+Pincard: A	Pin: 12   	I_result: -395.28	I_min: -410	I_max: -390	Status: PASS
+##########################################################
+  Overall result  : FAIL
+##########################################################

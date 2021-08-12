@@ -1,0 +1,19 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Mar 15 2021
+  Time     : 03:34:35
+###################################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 0.17     	V_min: 4.9	V_max: 5.1	Status: FAIL
+Pincard: A	Pin: 9   	I_result: 1.87     	I_min: 1	I_max: 100	Status: PASS
+
+Task Name: Nand Gate
+io10
+Expected: 0111011101110111
+Received: 0111011101110111
+Status: PASS
+###################################################################
+  Overall result  : FAIL
+###################################################################

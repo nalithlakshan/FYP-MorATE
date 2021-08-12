@@ -1,0 +1,21 @@
+####################MorATE TEST REPORT####################
+  Project  : P25Q40
+  Operator : User
+  Date     : Sat Jan 23 2021
+  Time     : 17:22:09
+##########################################################
+
+Task Name: Push
+Pincard: A	Pin: 2   	V_result: 3.30	V_min: 2.2	V_max: 3	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 149.35	I_min: 140	I_max: 160	Status: PASS
+Pincard: A	Pin: 3   	V_result: 3.33	V_min: 2.2	V_max: 3	Status: FAIL
+Pincard: A	Pin: 3   	I_result: 149.35	I_min: 140	I_max: 160	Status: PASS
+Pincard: A	Pin: 10   	V_result: 3.34	V_min: 2.2	V_max: 3	Status: FAIL
+Pincard: A	Pin: 10   	I_result: 148.73	I_min: 140	I_max: 160	Status: PASS
+Pincard: A	Pin: 11   	V_result: 3.57	V_min: 2.2	V_max: 3	Status: FAIL
+Pincard: A	Pin: 11   	I_result: 149.85	I_min: 140	I_max: 160	Status: PASS
+Pincard: A	Pin: 12   	V_result: 3.34	V_min: 2.2	V_max: 3	Status: FAIL
+Pincard: A	Pin: 12   	I_result: 149.48	I_min: 140	I_max: 160	Status: PASS
+##########################################################
+  Overall result  : FAIL
+##########################################################

@@ -1,0 +1,52 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011 double
+  Operator : User
+  Date     : Fri Jul 23 2021
+  Time     : 17:26:48
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: Digital Test 1
+-------------------------------------------------------------------
+io5
+Expected: 01110111
+Received: 00000000
+Status: FAIL
+io7
+Expected: 01110111
+Received: 00000000
+Status: FAIL
+io27
+Expected: 01110111
+Received: 11111111
+Status: FAIL
+io25
+Expected: 01110111
+Received: 11111111
+Status: FAIL
+Task Duration : 825ms
+
+-------------------------------------------------------------------
+Task Name: Digital Test 2
+-------------------------------------------------------------------
+io8
+Expected: 01110111
+Received: 00000000
+Status: FAIL
+io10
+Expected: 01110111
+Received: 01010101
+Status: FAIL
+io26
+Expected: 01110111
+Received: 00000000
+Status: FAIL
+io24
+Expected: 01110111
+Received: 11111111
+Status: FAIL
+Task Duration : 819ms
+###################################################################
+  Overall result  : FAIL
+###################################################################
+Total Testing Time : 3612ms

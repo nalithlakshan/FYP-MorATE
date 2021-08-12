@@ -1,0 +1,143 @@
+#######################MorATE TEST REPORT##############################
+  Project  : digital debug
+  Operator : User
+  Date     : Sun Jul 25 2021
+  Time     : 04:27:37
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: same pin test
+-------------------------------------------------------------------
+io1
+Expected: xxxx1010
+Received: 10101010
+Status: PASS
+io2
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io3
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io4
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io5
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io6
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io7
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io8
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io9
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io10
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io11
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io12
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io13
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io14
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io15
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io16
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io17
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io18
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io19
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io20
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io21
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io22
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io23
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io24
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io25
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io26
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io27
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io28
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io29
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io30
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io31
+Expected: 10101010
+Received: 10101010
+Status: PASS
+io32
+Expected: 10101010
+Received: 10101010
+Status: PASS
+Task Duration : 3099ms
+###################################################################
+  Overall result  : PASS
+###################################################################
+Total Testing Time : 5936ms

@@ -1,0 +1,13 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Mar 15 2021
+  Time     : 03:18:23
+###################################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	V_result: 5.01     	V_min: 4.9	V_max: 0	Status: FAIL
+Pincard: A	Pin: 9   	I_result: 2.12     	I_min: 3	I_max: 10	Status: FAIL
+###################################################################
+  Overall result  : FAIL
+###################################################################

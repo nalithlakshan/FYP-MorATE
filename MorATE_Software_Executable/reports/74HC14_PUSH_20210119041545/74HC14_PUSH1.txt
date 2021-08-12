@@ -1,0 +1,15 @@
+####################MorATE TEST REPORT####################
+  Project  : HC7425
+  Operator : Lahiru
+  Date     : Tue Jan 19 2021
+  Time     : 04:15:45
+##########################################################
+
+Task Name: push
+Pincard: A	Pin: 5	V_result: 2.77562	V_min: 2.5	V_max: 3.3	Status: PASS
+Pincard: A	Pin: 6	V_result: 2.80625	V_min: 2.5	V_max: 3.3	Status: PASS
+Pincard: A	Pin: 7	V_result: 2.79938	V_min: 2.5	V_max: 3.3	Status: PASS
+Pincard: A	Pin: 8	V_result: 1.9575	V_min: 2.5	V_max: 3.3	Status: FAIL
+##########################################################
+  Overall result  : FAIL
+##########################################################

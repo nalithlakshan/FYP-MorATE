@@ -1,0 +1,15 @@
+#################MorATE TEST REPORT SUMMARY#################
+  Project  : CD4001
+  Operator : thilina
+  Date     : Fri Jan 8 2021
+  Time     : 18:03:27
+##########################################################
+
+  Total ICs tested     : 0
+ID of the starting IC  : 1
+ID of the last IC      : 0
+  No. of ICs passed    : 0
+  No. of ICs failed    : 0
+
+  List of failed ICs   : 
+##########################################################

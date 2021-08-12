@@ -1,0 +1,101 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 17:33:47
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: IDDQ Test
+-------------------------------------------------------------------
+Pincard: A	Pin: 9   	V_result: 3.55     	V_min: 3.65	V_max: 3.85	Status: FAIL
+Pincard: A	Pin: 9   	I_result: 1457.50     	I_min: 1	I_max: 100	Status: FAIL
+Task Duration : 1682ms
+
+-------------------------------------------------------------------
+Task Name: Push
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: 5.17     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 1   	I_result: 6.22     	I_min: 400	I_max: 600	Status: FAIL
+Pincard: A	Pin: 2   	V_result: 2.43     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 493.23     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 3   	V_result: 3.32     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 3   	I_result: 493.48     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 4   	V_result: 2.31     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 4   	I_result: 493.23     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 5   	V_result: 2.48     	V_min: 0.7	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 5   	I_result: 493.60     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 6   	V_result: 2.83     	V_min: 0.7	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 6   	I_result: 493.35     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 10   	V_result: 4.95     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 10   	I_result: 241.23     	I_min: 400	I_max: 600	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 4.57     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 11   	I_result: 319.60     	I_min: 400	I_max: 600	Status: FAIL
+Pincard: A	Pin: 12   	V_result: 3.26     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 12   	I_result: 493.10     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 13   	V_result: 2.33     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 13   	I_result: 492.73     	I_min: 400	I_max: 600	Status: PASS
+Pincard: A	Pin: 14   	V_result: 4.97     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 14   	I_result: 171.23     	I_min: 400	I_max: 600	Status: FAIL
+Pincard: A	Pin: 15   	V_result: 5.08     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 15   	I_result: 73.85     	I_min: 400	I_max: 600	Status: FAIL
+Task Duration : 10205ms
+
+-------------------------------------------------------------------
+Task Name: Pull
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: -0.45     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 1   	I_result: 5.85     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 2   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 1.47     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 3   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 3   	I_result: 5.72     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 4   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 4   	I_result: 5.72     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 5   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 5   	I_result: 5.97     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 6   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 6   	I_result: 5.72     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 10   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 10   	I_result: 5.97     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 11   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 11   	I_result: 5.22     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 12   	V_result: -0.45     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 12   	I_result: 5.60     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 13   	V_result: -0.44     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 13   	I_result: 5.10     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 14   	V_result: -0.45     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 14   	I_result: 4.97     	I_min: -600	I_max: -400	Status: FAIL
+Pincard: A	Pin: 15   	V_result: -0.45     	V_min: 1.7	V_max: 1.85	Status: FAIL
+Pincard: A	Pin: 15   	I_result: 4.97     	I_min: -600	I_max: -400	Status: FAIL
+Task Duration : 10302ms
+
+-------------------------------------------------------------------
+Task Name: digital
+-------------------------------------------------------------------
+io5
+Expected: XXXX0110
+Received: 00000000
+Status: FAIL
+io7
+Expected: 01110110
+Received: 00000000
+Status: FAIL
+Task Duration : 1084ms
+
+-------------------------------------------------------------------
+Task Name: digital 2
+-------------------------------------------------------------------
+io8
+Expected: 01110110
+Received: 00000000
+Status: FAIL
+io10
+Expected: 01110110
+Received: 00000000
+Status: FAIL
+Task Duration : 974ms
+###################################################################
+  Overall result  : FAIL
+###################################################################
+Total Testing Time : 29841ms

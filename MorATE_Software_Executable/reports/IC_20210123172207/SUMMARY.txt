@@ -1,0 +1,18 @@
+#################MorATE TEST REPORT SUMMARY#################
+  Project  : P25Q40
+  Operator : User
+  Date     : Sat Jan 23 2021
+  Time     : 17:22:36
+##########################################################
+
+  Total ICs tested     : 3
+ID of the starting IC  : 1
+ID of the last IC      : 3
+  No. of ICs passed    : 0
+  No. of ICs failed    : 3
+
+  List of failed ICs   : 
+IC1
+IC2
+IC3
+##########################################################

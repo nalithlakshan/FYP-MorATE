@@ -1,0 +1,82 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Wed Jul 21 2021
+  Time     : 15:52:01
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: Power Up
+-------------------------------------------------------------------
+Task Duration : 11ms
+
+-------------------------------------------------------------------
+Task Name: IDDQ Test
+-------------------------------------------------------------------
+Pincard: A	Pin: 9   	V_result: 3.74     	V_min: 3.65	V_max: 3.85	Status: PASS
+Pincard: A	Pin: 9   	I_result: 8.25     	I_min: 1	I_max: 100	Status: PASS
+Task Duration : 4663ms
+
+-------------------------------------------------------------------
+Task Name: Push
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: 0.72     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 2   	V_result: 0.72     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 3   	V_result: 0.65     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 4   	V_result: 0.65     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 5   	V_result: 0.72     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 6   	V_result: 0.72     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 10   	V_result: 0.72     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 11   	V_result: 0.72     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 12   	V_result: 0.65     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 13   	V_result: 0.65     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 14   	V_result: 0.70     	V_min: 0.6	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 15   	V_result: 0.72     	V_min: 0.6	V_max: 0.8	Status: PASS
+Task Duration : 13501ms
+
+-------------------------------------------------------------------
+Task Name: Pull
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 2   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 3   	V_result: 1.81     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 4   	V_result: 1.81     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 5   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 6   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 10   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 11   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 12   	V_result: 1.81     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 13   	V_result: 1.82     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 14   	V_result: 1.82     	V_min: 1.7	V_max: 1.85	Status: PASS
+Pincard: A	Pin: 15   	V_result: 1.80     	V_min: 1.7	V_max: 1.85	Status: PASS
+Task Duration : 13514ms
+
+-------------------------------------------------------------------
+Task Name: digital
+-------------------------------------------------------------------
+io5
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io7
+Expected: 01110111
+Received: 01110111
+Status: PASS
+Task Duration : 886ms
+
+-------------------------------------------------------------------
+Task Name: digital 2
+-------------------------------------------------------------------
+io8
+Expected: 01110111
+Received: 01110111
+Status: PASS
+io10
+Expected: 00110011
+Received: 00110011
+Status: PASS
+Task Duration : 748ms
+###################################################################
+  Overall result  : PASS
+###################################################################
+Total Testing Time : 39610ms

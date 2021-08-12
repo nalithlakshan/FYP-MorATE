@@ -1,0 +1,43 @@
+#######################MorATE TEST REPORT##############################
+  Project  : digital debug
+  Operator : User
+  Date     : Wed Jun 30 2021
+  Time     : 04:05:32
+###################################################################
+
+Task Name: test1
+io3
+Expected: 
+Received: 
+Status: PASS
+io4
+Expected: 
+Received: 
+Status: PASS
+io7
+Expected: 
+Received: 
+Status: PASS
+io8
+Expected: 
+Received: 
+Status: PASS
+io11
+Expected: 
+Received: 
+Status: PASS
+io12
+Expected: 
+Received: 
+Status: PASS
+io15
+Expected: 
+Received: 
+Status: PASS
+io16
+Expected: 
+Received: 
+Status: PASS
+###################################################################
+  Overall result  : PASS
+###################################################################

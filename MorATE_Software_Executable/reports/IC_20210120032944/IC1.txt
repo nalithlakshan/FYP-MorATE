@@ -1,0 +1,51 @@
+####################MorATE TEST REPORT####################
+  Project  : HC7425
+  Operator : User
+  Date     : Wed Jan 20 2021
+  Time     : 03:29:44
+##########################################################
+
+Task Name: push
+Pincard: A	Pin: 1   	V_result: 5.14	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 1   	I_result: 38.25	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 2   	V_result: 3.34	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 2   	I_result: 355.75	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 3   	V_result: 5.15	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 3   	I_result: 28.00	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 4   	V_result: 3.19	V_min: 2.5	V_max: 3.3	Status: PASS
+Pincard: A	Pin: 4   	I_result: 489.00	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 5   	V_result: 5.14	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 5   	I_result: 35.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 6   	V_result: 4.65	V_min: 2.5	V_max: 3.3	Status: FAIL
+Pincard: A	Pin: 6   	I_result: 451.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 7   	V_result: 2.47	V_min: 0	V_max: 5	Status: PASS
+Pincard: A	Pin: 7   	I_result: -2.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 8   	V_result: 2.25	V_min: 2.4	V_max: 2.6	Status: FAIL
+Pincard: A	Pin: 9   	V_result: 4.95	V_min: 2.5	V_max: 3.5	Status: FAIL
+Pincard: A	Pin: 9   	I_result: 180.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 10   	V_result: 5.15	V_min: 2.5	V_max: 3.5	Status: FAIL
+Pincard: A	Pin: 10   	I_result: 27.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 11   	V_result: 3.63	V_min: 2.5	V_max: 3.5	Status: FAIL
+Pincard: A	Pin: 11   	I_result: 489.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 12   	V_result: 5.15	V_min: 2.5	V_max: 3.5	Status: FAIL
+Pincard: A	Pin: 12   	I_result: 17.75	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 13   	V_result: 3.00	V_min: 2.5	V_max: 3.5	Status: PASS
+Pincard: A	Pin: 13   	I_result: 491.00	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 14   	V_result: 5.17	V_min: 2.5	V_max: 3.5	Status: FAIL
+Pincard: A	Pin: 14   	I_result: 18.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 15   	V_result: 2.84	V_min: 2.5	V_max: 3.5	Status: PASS
+Pincard: A	Pin: 15   	I_result: 489.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 16   	I_result: 0.25	I_min: 230	I_max: 270	Status: FAIL
+
+Task Name: pull
+Pincard: A	Pin: 1   	V_result: 1.76	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 1   	I_result: -499.50	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 2   	V_result: 1.88	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 2   	I_result: -499.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 3   	V_result: 1.76	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 3   	I_result: -498.63	I_min: -1000	I_max: 1000	Status: PASS
+Pincard: A	Pin: 4   	V_result: 1.87	V_min: 1.7	V_max: 2.5	Status: PASS
+Pincard: A	Pin: 4   	I_result: -499.75	I_min: -1000	I_max: 1000	Status: PASS
+##########################################################
+  Overall result  : FAIL
+##########################################################

@@ -1,0 +1,16 @@
+#################MorATE TEST REPORT SUMMARY#################
+  Project  : HC7425
+  Operator : User
+  Date     : Wed Jan 20 2021
+  Time     : 03:26:09
+##########################################################
+
+  Total ICs tested     : 1
+ID of the starting IC  : 1
+ID of the last IC      : 1
+  No. of ICs passed    : 0
+  No. of ICs failed    : 1
+
+  List of failed ICs   : 
+IC1
+##########################################################

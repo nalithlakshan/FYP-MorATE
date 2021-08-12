@@ -1,0 +1,20 @@
+#######################MorATE TEST REPORT##############################
+  Project  : 74HC595D
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 17:00:13
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: Pull
+-------------------------------------------------------------------
+Pincard: A	Pin: 2   	V_result: 1.91     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 3   	V_result: 1.92     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 4   	V_result: 1.92     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 5   	V_result: 1.92     	V_min: 0	V_max: 0	Status: FAIL
+Pincard: A	Pin: 6   	V_result: 1.92     	V_min: 0	V_max: 0	Status: FAIL
+Task Duration : 3507ms
+###################################################################
+  Overall result  : FAIL
+###################################################################
+Total Testing Time : 5268ms

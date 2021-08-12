@@ -1,0 +1,8 @@
+si5351.c:9:6:clk_init	8	static
+si5351.c:14:6:clk_reset	8	static
+si5351.c:19:6:clk_set_frequency	64	static
+si5351.c:139:6:clk_enable	24	static
+si5351.c:156:6:clk_disable	16	static
+si5351.c:164:6:clk_set_power	16	static
+si5351.c:172:6:clk_i2c_write	32	static
+si5351.c:181:6:clk_off	16	static

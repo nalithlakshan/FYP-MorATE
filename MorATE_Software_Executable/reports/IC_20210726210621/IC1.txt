@@ -1,0 +1,58 @@
+#######################MorATE TEST REPORT##############################
+  Project  : SD RAM
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 21:06:26
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: IDDQ
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: 3.29     	V_min: 3	V_max: 3.5	Status: PASS
+Task Duration : 1311ms
+
+-------------------------------------------------------------------
+Task Name: WRITE
+-------------------------------------------------------------------
+Task Duration : 34ms
+
+-------------------------------------------------------------------
+Task Name: READ
+-------------------------------------------------------------------
+io5
+Expected: xxxxxxx00111111xxxxxxxx11111100xxxxxxxx11110011xxxxxxxx11001100xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+io3
+Expected: xxxxxxx00000011xxxxxxxx00000011xxxxxxxx00001100xxxxxxxx00000011xxx
+Received: 000000000000000000000000000000000000000000000000000000000000000000
+Status: FAIL
+io7
+Expected: xxxxxxx11000000xxxxxxxx11111100xxxxxxxx00111111xxxxxxxx11110011xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+io9
+Expected: xxxxxxx00001100xxxxxxxx11110000xxxxxxxx00110011xxxxxxxx11111100xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+io10
+Expected: xxxxxxx00000000xxxxxxxx00000011xxxxxxxx00001111xxxxxxxx00001100xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+io8
+Expected: xxxxxxx11000011xxxxxxxx00001100xxxxxxxx00001111xxxxxxxx11001100xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+io6
+Expected: xxxxxxx00000011xxxxxxxx00001100xxxxxxxx00001100xxxxxxxx11001111xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+io4
+Expected: xxxxxxx00110000xxxxxxxx00110000xxxxxxxx00000000xxxxxxxx11111111xxx
+Received: 111111111111111111111111111111111111111111111111111111111111111111
+Status: FAIL
+Task Duration : 3699ms
+###################################################################
+  Overall result  : FAIL
+###################################################################
+Total Testing Time : 9740ms

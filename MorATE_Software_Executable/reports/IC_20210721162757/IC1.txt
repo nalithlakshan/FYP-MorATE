@@ -1,0 +1,27 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Wed Jul 21 2021
+  Time     : 16:27:59
+###################################################################
+
+-------------------------------------------------------------------
+Task Name: Push
+-------------------------------------------------------------------
+Pincard: A	Pin: 1   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 2   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 3   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 4   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 5   	V_result: 5.19     	V_min: 0.7	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 6   	V_result: 5.19     	V_min: 0.7	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 10   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 11   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 12   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 13   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 14   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Pincard: A	Pin: 15   	V_result: 5.19     	V_min: 0.6	V_max: 0.8	Status: FAIL
+Task Duration : 13399ms
+###################################################################
+  Overall result  : FAIL
+###################################################################
+Total Testing Time : 15527ms

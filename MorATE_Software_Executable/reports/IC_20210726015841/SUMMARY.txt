@@ -1,0 +1,16 @@
+##################MorATE TEST REPORT SUMMARY#########################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Jul 26 2021
+  Time     : 01:59:03
+#####################################################################
+
+  Total ICs tested     : 4
+ID of the starting IC  : 1
+ID of the last IC      : 4
+  No. of ICs passed    : 3
+  No. of ICs failed    : 1
+
+  List of failed ICs   : 
+IC1
+##########################################################

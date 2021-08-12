@@ -1,0 +1,4 @@
+{
+    "configuration": "pnum=BLUEPILL_F103C6,upload_method=swdMethod,xserial=generic,usb=none,xusb=FS,opt=osstd,rtlib=nano",
+    "board": "STMicroelectronics:stm32:GenF1"
+}

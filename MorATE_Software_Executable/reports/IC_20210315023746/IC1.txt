@@ -1,0 +1,27 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Mar 15 2021
+  Time     : 02:37:49
+###################################################################
+
+Task Name: Push
+Pincard: A	Pin: 1   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 1   	I_result: 495.10     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 2   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 2   	I_result: 494.85     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 5   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 5   	I_result: 494.73     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 6   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 6   	I_result: 494.48     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 10   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 10   	I_result: 496.73     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 11   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 11   	I_result: 496.10     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 14   	V_result: 0.70     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 14   	I_result: 495.73     	I_min: 490	I_max: 510	Status: PASS
+Pincard: A	Pin: 15   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 15   	I_result: 495.85     	I_min: 490	I_max: 510	Status: PASS
+###################################################################
+  Overall result  : PASS
+###################################################################

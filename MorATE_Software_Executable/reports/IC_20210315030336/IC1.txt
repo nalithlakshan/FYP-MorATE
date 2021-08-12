@@ -1,0 +1,22 @@
+#######################MorATE TEST REPORT##############################
+  Project  : CD4011
+  Operator : User
+  Date     : Mon Mar 15 2021
+  Time     : 03:03:39
+###################################################################
+
+Task Name: IDDQ Test
+Pincard: A	Pin: 9   	I_result: 7.25     	I_min: 3	I_max: 5	Status: FAIL
+
+Task Name: Push
+Pincard: A	Pin: 1   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 2   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 5   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 6   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 10   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 11   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 14   	V_result: 0.70     	V_min: 0.7	V_max: 0.8	Status: PASS
+Pincard: A	Pin: 15   	V_result: 0.73     	V_min: 0.7	V_max: 0.8	Status: PASS
+###################################################################
+  Overall result  : FAIL
+###################################################################
